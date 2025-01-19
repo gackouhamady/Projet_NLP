@@ -1,100 +1,100 @@
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
+I don’t like that shirt you’re wearing. -> Aucune étiquette trouvée
+Can you hand me that book? -> Aucune étiquette trouvée
+I remember visiting that house when I was a child. -> Aucune étiquette trouvée
+That car over there is mine. -> Aucune étiquette trouvée
+Do you know who lives in that apartment? -> Aucune étiquette trouvée
+I don’t think that idea will work. -> Aucune étiquette trouvée
+She borrowed that pen from my desk. -> Aucune étiquette trouvée
+Did you see that movie everyone’s talking about? -> Aucune étiquette trouvée
+We need to fix that problem immediately. -> Aucune étiquette trouvée
+That road leads to the town square. -> Aucune étiquette trouvée
+I love the taste of that cake. -> Aucune étiquette trouvée
+That dog has been barking all morning. -> Aucune étiquette trouvée
+He’s wearing that jacket again. -> Aucune étiquette trouvée
+Don’t touch that plate; it’s hot. -> Aucune étiquette trouvée
+That chair is broken and needs repair. -> Aucune étiquette trouvée
+Who owns that bike parked outside? -> Aucune étiquette trouvée
+I’ve been meaning to visit that museum. -> Aucune étiquette trouvée
+Did you hear that noise just now? -> Aucune étiquette trouvée
+She doesn’t like that dress anymore. -> Aucune étiquette trouvée
+I’ll never forget that day we spent at the beach. -> Aucune étiquette trouvée
+That lamp needs a new bulb. -> Aucune étiquette trouvée
+Do you remember that song we used to sing? -> Aucune étiquette trouvée
+That picture brings back so many memories. -> Aucune étiquette trouvée
+He always sits in that seat during meetings. -> Aucune étiquette trouvée
+That phone has been ringing nonstop. -> Aucune étiquette trouvée
+They said that hotel has great reviews. -> Aucune étiquette trouvée
+Please pick up that paper on the floor. -> Aucune étiquette trouvée
+That window won’t open properly. -> Aucune étiquette trouvée
+She’s the owner of that beautiful garden. -> Aucune étiquette trouvée
+Can you grab that bottle of water for me? -> Aucune étiquette trouvée
+I’ve been looking for that book everywhere. -> Aucune étiquette trouvée
+That cat keeps coming into our yard. -> Aucune étiquette trouvée
+Did you attend that conference last year? -> Aucune étiquette trouvée
+I’ll always remember that advice you gave me. -> Aucune étiquette trouvée
+That flower smells amazing. -> Aucune étiquette trouvée
+The teacher wrote that word on the board. -> Aucune étiquette trouvée
+I think that restaurant serves the best pasta. -> Aucune étiquette trouvée
+That man is staring at us. -> Aucune étiquette trouvée
+Don’t forget to close that door when you leave. -> Aucune étiquette trouvée
+She painted that wall all by herself. -> Aucune étiquette trouvée
+I don’t understand why that rule exists. -> Aucune étiquette trouvée
+Can you turn off that light before you leave? -> Aucune étiquette trouvée
+That mountain is breathtaking. -> Aucune étiquette trouvée
+Do you see that bird perched on the tree? -> Aucune étiquette trouvée
+I don’t like that tone you’re using with me. -> Aucune étiquette trouvée
+We should explore that path next time. -> Aucune étiquette trouvée
+He’s been avoiding that topic all day. -> Aucune étiquette trouvée
+That child is very talented. -> Aucune étiquette trouvée
+Let’s not waste time discussing that issue again. -> Aucune étiquette trouvée
+She left her umbrella on that table. -> Aucune étiquette trouvée
+That car’s engine sounds strange. -> Aucune étiquette trouvée
+I’ll never forget that moment when we first met. -> Aucune étiquette trouvée
+Can you put that box on the shelf? -> Aucune étiquette trouvée
+That street is closed for repairs. -> Aucune étiquette trouvée
+She wore that scarf I gave her for her birthday. -> Aucune étiquette trouvée
+I’d like to visit that castle someday. -> Aucune étiquette trouvée
+That store is having a huge sale today. -> Aucune étiquette trouvée
+Do you like that necklace she’s wearing? -> Aucune étiquette trouvée
+I heard that train is always late. -> Aucune étiquette trouvée
+They’re tearing down that old building. -> Aucune étiquette trouvée
+That coffee smells delicious. -> Aucune étiquette trouvée
+I’ve been dreaming about that vacation for years. -> Aucune étiquette trouvée
+Don’t forget to water that plant. -> Aucune étiquette trouvée
+Who’s driving that truck? -> Aucune étiquette trouvée
+That bridge was built over a century ago. -> Aucune étiquette trouvée
+Have you ever been to that park by the river? -> Aucune étiquette trouvée
+That color looks great on you. -> Aucune étiquette trouvée
+Can you believe that speech he gave? -> Aucune étiquette trouvée
+She owns that store on Main Street. -> Aucune étiquette trouvée
+Did you see that cloud shaped like a dragon? -> Aucune étiquette trouvée
+I love the pattern on that rug. -> Aucune étiquette trouvée
+That chair was a gift from my grandmother. -> Aucune étiquette trouvée
+Do you know who wrote that book? -> Aucune étiquette trouvée
+We stayed at that hotel during our trip. -> Aucune étiquette trouvée
+That sandwich looks delicious. -> Aucune étiquette trouvée
+He parked his car in that spot. -> Aucune étiquette trouvée
+I’d love to climb that hill one day. -> Aucune étiquette trouvée
+She bought that dress at a vintage store. -> Aucune étiquette trouvée
+That clock on the wall needs to be fixed. -> Aucune étiquette trouvée
+Can you see that star shining so brightly? -> Aucune étiquette trouvée
+I’ve always wanted to visit that country. -> Aucune étiquette trouvée
+That dog belongs to our neighbor. -> Aucune étiquette trouvée
+Don’t touch that wire; it’s dangerous. -> Aucune étiquette trouvée
+Have you seen that movie about space travel? -> Aucune étiquette trouvée
+She found that ring while cleaning the attic. -> Aucune étiquette trouvée
+I don’t understand that rule in the game. -> Aucune étiquette trouvée
+Do you know who painted that picture? -> Aucune étiquette trouvée
+We walked through that forest on our way here. -> Aucune étiquette trouvée
+That bakery makes the best chocolate cake. -> Aucune étiquette trouvée
+She sat on that bench for hours. -> Aucune étiquette trouvée
+Can you believe that storm last night? -> Aucune étiquette trouvée
+I’m not sure if that recipe will work. -> Aucune étiquette trouvée
+That hat really suits you. -> Aucune étiquette trouvée
+He used that tool to fix the broken pipe. -> Aucune étiquette trouvée
+I can’t stop thinking about that conversation we had. -> Aucune étiquette trouvée
+That house on the corner is for sale. -> Aucune étiquette trouvée
+I’ve been eyeing that jacket for weeks. -> Aucune étiquette trouvée
+That guitar sounds amazing. -> Aucune étiquette trouvée
+Did you notice that painting in the hallway? -> Aucune étiquette trouvée
+That story she told was incredible. -> Aucune étiquette trouvée
