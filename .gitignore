@@ -4,11 +4,12 @@ penn.par
 TreeTaggerDoc
 Files
 brown_annotated
-Datasets
 Lab_Hands
 raw_brown_data
-testing_sets
 RESULTS_RRC
 brown_corpus.txt
 WPR_accuracy.png
-
+accuracy_per_tag.png
+referencing_sets
+testing_sets
+tests_results
