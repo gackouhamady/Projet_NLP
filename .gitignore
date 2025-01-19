@@ -10,6 +10,5 @@ raw_brown_data
 testing_sets
 RESULTS_RRC
 brown_corpus.txt
-deps_emulator.py
 WPR_accuracy.png
 
