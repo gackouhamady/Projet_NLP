@@ -1,0 +1,20 @@
+# Structure des prompts de la conversation
+
+
+## 1. **CJT - Conjunction (that)**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : CJT - Conjunction 'that' (utilisé comme conjonction, par exemple dans une phrase comme 'I know that she is coming')."
+
+## 2. **DTQ - Wh-determiner (that)**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : DTQ - Wh-determiner (si 'that' est utilisé comme un déterminant interrogatif dans une phrase comme 'Which book is that?')."
+
+## 3. **PNQ - Wh-pronoun (that)**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : PNQ - Wh-pronoun (si 'that' est utilisé comme pronom interrogatif dans une phrase comme 'Who is that?')."
+
+## 4. **DT0 - General determiner (that)**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : DT0 - General determiner (si 'that' est utilisé comme déterminant démonstratif, par exemple dans 'That book is mine')."
+
+## 5. **NULL - Tag NULL (Omission implicite de "that")**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : NULL - Peut être marqué comme NULL dans certains contextes où 'that' est omis ou implicite."
+
+## 6. **VBG - Forme verbale (that)**
+- **Prompt** : "Donne moi deux cents phrases de 'that' : VBG - En tant que forme verbale, bien que plus rare, 'that' pourrait être associé à un mot dans un contexte particulier, comme dans 'He said that being there was important' (où 'being' pourrait être relié à 'that' pour former une structure complexe)."

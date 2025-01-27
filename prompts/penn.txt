@@ -1,0 +1,40 @@
+## Prompts : that utilisé comme **DT (Determiner)**
+
+- Donne moi 200 phrases de that : DT (Determiner)
+  Exemple : That car is fast.  
+  Dans ce cas, "that" fonctionne comme un déterminant, spécifiant quel objet est mentionné (ici "car").
+
+
+## Prompts : that utilisé comme **WDT (Wh-determiner)**
+
+- Deux cent phrases de that : WDT (Wh-determiner)
+  Exemple : That is the book I was talking about.  
+  Ici, "that" est utilisé comme un déterminant interrogatif ou relatif (un "wh-determiner"), introduisant une proposition subordonnée.
+
+
+## Prompts : that utilisé comme **IN (Preposition or subordinating conjunction)**
+
+- Deux cent phrases de that : IN (Preposition or subordinating conjunction)
+  Exemple : I believe that he is right.  
+  Dans cet exemple, "that" est une conjonction subordonnée introduisant une clause complétive.
+
+
+## Prompts : that utilisé comme **WP (Wh-pronoun)**
+
+- Deux cents phrases that : WP (Wh-pronoun)  
+  Exemple : I don't know that.  
+  Ici, "that" est utilisé comme un pronom interrogatif ou relatif, où il remplace quelque chose mentionné auparavant.
+
+
+## Prompts : that utilisé comme **CC (Coordinating conjunction)**
+
+- Deux cent phrases that : CC (Coordinating conjunction)  
+  Exemple : I like both apples and that pear.  
+  Bien que plus rare, "that" peut parfois être une conjonction de coordination dans certains usages informels.
+
+
+## Prompts : that utilisé comme **RB (Adverb)**
+
+- Deux cents phrases où that est utilisé comme adverbe avec tag RB  
+  Exemple : I didn’t know that he was coming.  
+  Dans ces exemples, "that" fonctionne pour modifier un adjectif, un verbe ou un autre adverbe.
