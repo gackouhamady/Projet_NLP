@@ -1,0 +1,14 @@
+ # Prompts de ce Chat
+
+## Prompt 1: 
+**Demande:**  
+"Donne moi deux cents phrases de that : WPR : "that" comme pronom relatif, utilisé pour introduire une proposition relative."  
+
+
+## Prompt 2:  
+**Demande:**  
+"Donne moi deux cents phrases de that : CST : "that" en tant que complementizer (utilisé comme conjonction pour introduire une proposition complétive)."  
+
+## Prompt 3:  
+**Demande:**  
+"Donne moi deux cents phrases de that : CS : "that" comme conjonction de subordination, pour lier une proposition subordonnée."  
