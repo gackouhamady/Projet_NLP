@@ -1,0 +1,4283 @@
+the	DT the
+fulton	NNP fulton
+county	NNP county	NN county
+grand	NNP grand	JJ grand
+jury	NNP jury	NN jury
+said	VBD say	VBN say
+friday	NNP friday
+an	DT a
+investigation	NN investigation	NNP investigation
+of	IN of
+atlanta's	None _
+atlanta	NNP atlanta
+'s	POS 's	VBZ be
+recent	JJ recent
+primary	JJ primary	NN primary
+election	NN election
+produced	VBD produce
+``	`` ``	'' ``	NFP ``	, ``
+no	DT no	UH no	RB no
+evidence	NN evidence
+'	'' '	POS 's	`` '
+that	IN that	CST that	WPR that	DT that	WDT that
+any	DT any	RB any
+irregularities	NNS irregularity
+took	VBD take
+place	NN place	VB place
+.	. .
+further	RB further	JJ further	JJR further
+in	IN in	RP in	RB in	NN in
+term	NN term
+-	HYPH -	SYM -	, -
+end	NN end	VB end
+presentments	NNS presentment
+city	NNP city	NN city
+executive	NNP executive	JJ executive
+committee	NNP committee	NN committee
+,	, ,
+which	WDT which
+had	VBD have	VBN have
+over	RB over	RP over	IN over
+all	DT all	PDT all	RB all
+charge	NN charge	VB charge
+deserves	VBZ deserve
+praise	NN praise
+and	CC and
+thanks	NN thanks
+for	IN for
+manner	NN manner
+was	VBD be
+conducted	VBN conduct
+september	NNP september
+october	NNP october
+been	VBN be
+charged	VBN charge	VBD charge
+by	IN by	RB by
+superior	NNP superior
+court	NNP court	NN court
+judge	NNP judge	NN judge
+durwood	NNP durwood
+pye	NNP pye
+to	TO to	IN to
+investigate	VB investigate
+reports	NNS report
+possible	JJ possible
+hard	RB hard	JJ hard
+fought	VBN fight
+won	VBN win
+mayor	NNP mayor	NN mayor
+nominate	JJ nominate
+ivan	NNP ivan
+allen	NNP allen
+jr.	NNP jr.
+only	RB only	JJ only
+a	DT a	NNP a
+relative	JJ relative
+handful	NN handful
+such	JJ such	PDT such
+received	VBN receive	VBD receive
+considering	VBG consider
+widespread	JJ widespread
+interest	NN interest
+number	NN number
+voters	NNS voter
+size	NN size
+this	DT this
+it	PRP it
+did	VBD do
+find	VB find	VBP find
+many	JJ many
+georgia's	None _
+georgia	NNP georgia
+registration	NN registration
+laws	NNS law
+are	VBP be
+outmoded	JJ outmoded
+or	CC or
+inadequate	JJ inadequate
+often	RB often
+ambiguous	JJ ambiguous
+recommended	VBD recommend	VBN recommend
+legislators	NNS legislator
+act	NN act	NNP act
+have	VB have	VBP have
+these	DT this
+studied	VBN study	VBD study
+revised	VBN revise	VBD revise
+modernizing	VBG modernize
+improving	VBG improve
+them	PRP they
+commented	VBD comment
+on	IN on	RB on	RP on
+other	JJ other
+topics	NNS topic
+among	IN among
+purchasing	NN purchasing	NNP purchasing	VBG purchase
+departments	NNS department
+well	RB well
+operated	VBN operate
+follow	VBP follow	VB follow
+generally	RB generally
+accepted	VBN accept
+practices	NNS practice
+inure	VBP inure
+best	JJS good	RBS well
+both	DT both	CC both
+governments	NNS government
+merger	NN merger
+proposed	VBN propose	VBD propose
+however	RB however
+believes	VBZ believe
+two	CD two
+offices	NNS office
+should	MD should
+be	VB be
+combined	VBN combine
+achieve	VB achieve
+greater	JJR great
+efficiency	NN efficiency
+reduce	VB reduce
+cost	NN cost	VBN cost	VB cost
+administration	NN administration	NNP administration
+department	NNP department	NN department
+is	VBZ be
+lacking	VBG lack
+experienced	JJ experienced	VBN experience
+clerical	JJ clerical
+personnel	NNS personnel	NN personnel
+as	IN as	RB as
+result	NN result
+policies	NNS policy
+urged	VBD urge	VBN urge
+take	VB take	VBP take
+steps	NNS step
+remedy	VB remedy
+problem	NN problem
+implementation	NN implementation
+automobile	NN automobile
+title	NN title
+law	NN law	NNP law
+also	RB also
+outgoing	JJ outgoing
+next	JJ next
+legislature	NN legislature	NNP legislature
+provide	VB provide	VBP provide
+enabling	VBG enable	NN enabling
+funds	NNS fund
+re-set	VB re-set
+effective	JJ effective
+date	NN date
+so	IN so	RB so
+orderly	JJ orderly
+may	MD may	NNP may
+effected	VBN effect
+swipe	NN swipe
+at	IN at
+state	NNP state	NN state	VB state
+welfare	NNP welfare	NN welfare
+department's	None _
+handling	NN handling
+federal	JJ federal	NNP federal
+granted	VBN grant
+child	NN child
+services	NNS service
+foster	NN foster
+homes	NNS home
+one	CD one	NN one
+major	JJ major
+items	NNS item
+general	JJ general	NN general	NNP general
+assistance	NN assistance
+program	NN program
+but	CC but
+has	VBZ have
+seen	VBN see
+fit	JJ fit
+distribute	VB distribute
+through	IN through	RP through
+counties	NNS county	NNPS county
+with	IN with
+exception	NN exception
+receives	VBZ receive
+none	NN none
+money	NN money
+jurors	NNS juror
+they	PRP they
+realize	VBP realize
+proportionate	JJ proportionate
+distribution	NN distribution
+might	MD might
+disable	VB disable
+our	PRP$ our
+less	RBR less	JJR less
+populous	JJ populous
+nevertheless	RB nevertheless
+we	PRP we
+feel	VBP feel
+future	NN future	JJ future
+receive	VB receive
+some	DT some
+portion	NN portion
+available	JJ available
+failure	NN failure
+do	VB do	VBP do
+will	MD will
+continue	VB continue
+disproportionate	JJ disproportionate
+burden	NN burden
+taxpayers	NNS taxpayer
+ordinary's	None _
+ordinary	NN ordinary	JJ ordinary	NNP ordinary
+under	IN under	AFX under
+fire	NN fire	NNP fire
+its	PRP$ its
+appointment	NN appointment
+appraisers	NNS appraiser
+guardians	NNS guardian
+administrators	NNS administrator
+awarding	NN awarding
+fees	NNS fee
+compensation	NN compensation
+wards	NNS ward
+protected	VBN protect
+found	VBD find	VBN find
+incorporated	VBN incorporate
+into	IN into
+operating	NN operating
+procedures	NNS procedure
+recommendations	NNS recommendation
+previous	JJ previous
+juries	NNS jury
+bar	NNP bar	NN bar
+association	NNP association	NN association
+interim	JJ interim
+citizens	NNS citizen	NNPS citizen
+actions	NNS action
+serve	VB serve
+protect	VB protect
+fact	NN fact
+effect	NN effect	VB effect
+court's	None _
+from	IN from
+undue	JJ undue
+costs	NNS cost
+appointed	VBN appoint
+elected	VBN elect	VBD elect
+servants	NNS servant
+unmeritorious	JJ unmeritorious
+criticisms	NNS criticism
+regarding	VBG regard
+new	JJ new	NNP new
+multi-million	JJ multi-million
+dollar	NN dollar
+airport	NN airport
+when	WRB when
+management	NN management
+takes	VBZ take
+jan	NNP january
+1	LS 1	CD 1
+eliminate	VB eliminate
+political	JJ political
+influences	NNS influence
+not	RB not
+elaborate	VB elaborate
+added	VBD add	VBN add
+there	EX there	RB there
+periodic	JJ periodic
+surveillance	NN surveillance
+pricing	NN pricing
+concessionaires	NNS concessionaire
+purpose	NN purpose
+keeping	VBG keep
+prices	NNS price
+reasonable	JJ reasonable
+ask	VB ask
+jail	NN jail	NNP jail
+deputies	NNS deputy
+matters	NNS matter
+:	: :
+(	-LRB- (
+)	-RRB- )
+four	CD four
+additional	JJ additional
+employed	VBN employ
+doctor	NN doctor
+medical	JJ medical
+intern	NN intern
+extern	NN extern
+night	NN night
+weekend	NN weekend
+duty	NN duty
+2	LS 2	CD 2
+work	VBP work	VB work	NN work
+officials	NNS official
+pass	VB pass
+legislation	NN legislation
+permit	VB permit	NN permit
+establishment	NN establishment
+fair	JJ fair
+equitable	JJ equitable
+pension	NN pension
+plan	NN plan	VB plan
+employes	NNS employe
+praised	VBD praise
+operation	NN operation
+police	NNP police	NN police	NNS police
+tax	NNP tax	NN tax
+commissioner's	None _
+commissioner	NNP commissioner	NN commissioner
+office	NNP office	NN office
+bellwood	NNP bellwood
+alpharetta	NNP alpharetta
+prison	NN prison
+farms	NNS farm
+grady	NNP grady
+hospital	NNP hospital	NN hospital
+health	NNP health	NN health
+william	NNP william
+b.	NNP b.
+hartsfield	NNP hartsfield
+filed	VBD file	VBN file
+suit	NN suit
+divorce	NN divorce	VB divorce
+his	PRP$ his
+wife	NN wife
+pearl	NNP pearl
+williams	NNP williams
+petition	NN petition
+mental	JJ mental
+cruelty	NN cruelty
+couple	NN couple
+married	VBN marry	JJ married
+aug	NNP aug
+1913	CD 1913
+son	NN son
+berry	NNP berry
+daughter	NN daughter
+mrs.	NNP mrs.
+j.	NNP j.
+m.	NNP m.
+cheshire	NNP cheshire
+griffin	NNP griffin
+attorneys	NNS attorney
+amicable	JJ amicable
+property	NN property	NNP property
+settlement	NN settlement
+agreed	VBN agree	VBD agree
+upon	IN upon
+listed	VBD list	VBN list
+mayor's	NNS mayor
+occupation	NN occupation
+attorney	NN attorney	NNP attorney
+age	NN age
+71	CD 71
+wife's	None _
+74	CD 74
+birth	NN birth
+opelika	NNP opelika
+ala	NNP ala
+lived	VBN live
+together	RB together
+man	NN man
+more	JJR more	RBR more
+than	IN than
+year	NN year
+home	NN home	NNP home	RB home
+637	CD 637
+e.	NNP e.
+pelham	NNP pelham
+rd	NNP rd
+aj	NNP aj
+henry	NNP henry
+l.	NNP l.
+bowden	NNP bowden
+brief	JJ brief
+interlude	NN interlude
+since	IN since
+1937	CD 1937
+career	NN career
+goes	VBZ go
+back	RB back	VB back	NN back	RP back
+council	NN council	NNP council
+1923	CD 1923
+present	JJ present	NN present
+expires	VBZ expire
+he	PRP he
+succeeded	VBN succeed
+who	WP who
+became	VBD become
+candidate	NN candidate
+sept.	NNP september
+13	CD 13
+after	IN after
+announced	VBD announce	VBN announce
+would	MD would
+run	VB run	VBP run	NN run
+reelection	NN reelection
+republicans	NNPS republican
+getting	VBG get
+strong	JJ strong
+encouragement	NN encouragement
+enter	VB enter
+1962	CD 1962
+governor's	None _
+governor	NN governor	NNP governor
+race	NN race	NNP race
+top	JJ top
+official	NN official	JJ official
+wednesday	NNP wednesday
+robert	NNP robert
+snodgrass	NNP snodgrass
+gop	NNP gop
+chairman	NN chairman	NNP chairman
+meeting	NN meeting
+held	VBN hold
+tuesday	NNP tuesday
+blue	NNP blue	JJ blue
+ridge	NNP ridge
+brought	VBD bring	VBN bring
+enthusiastic	JJ enthusiastic
+responses	NNS response
+audience	NN audience
+party	NNP party	NN party
+james	NNP james
+w.	NNP w.
+dorsey	NNP dorsey
+enthusiasm	NN enthusiasm
+picking	VBG pick
+up	RP up	IN up	RB up	NN up
+rally	NN rally
+8	CD 8
+savannah	NNP savannah
+newly	RB newly
+texas	NNP texas
+sen	NNP sen
+john	NNP john
+tower	NNP tower
+featured	VBN feature
+speaker	NN speaker	NNP speaker
+warned	VBN warn
+entering	VBG enter
+force	VB force	NNP force
+petitions	NNS petition
+out	RB out	RP out	IN out	JJ out
+voting	NN voting	VBG vote
+precincts	NNS precinct
+obtain	VB obtain
+signatures	NNS signature
+registered	VBN register
+despite	IN despite
+warning	NN warning
+unanimous	JJ unanimous
+vote	NN vote	VB vote	VBP vote
+according	VBG accord
+attended	VBD attend
+crowd	NN crowd
+asked	VBN ask	VBD ask
+whether	IN whether
+wanted	VBD want
+wait	VB wait
+make	VB make
+voted	VBD vote
+--	, --	NFP --
+were	VBD be
+dissents	NNS dissent
+largest	JJS large
+hurdle	NN hurdle
+face	VB face	NN face
+says	VBZ say
+before	IN before	RB before
+making	VBG make
+first	JJ first	RB first
+alternative	JJ alternative	NN alternative
+courses	NNS course
+must	MD must
+taken	VBN take
+five	CD five
+per	NN per	IN per
+cent	NN cent
+each	DT each
+sign	VB sign
+requesting	VBG request
+allowed	VBN allow
+names	NNS name
+candidates	NNS candidate
+ballot	NN ballot
+hold	VB hold
+unit	NN unit
+system	NN system
+opposes	VBZ oppose
+platform	NN platform
+sam	NNP sam
+caldwell	NNP caldwell
+highway	NNP highway	NN highway
+public	JJ public	NN public	NNP public
+relations	NNS relation	NNPS relation
+director	NN director
+resigned	VBD resign
+lt.	NNP lt.
+gov.	NNP gov.
+garland	NNP garland
+byrd's	None _
+byrd	NNP byrd
+campaign	NN campaign	VB campaign
+caldwell's	None _
+resignation	NN resignation
+expected	VBN expect
+time	NN time
+rob	NNP rob
+ledford	NNP ledford
+gainesville	NNP gainesville
+assistant	NN assistant	JJ assistant
+three	CD three
+years	NNS year
+gubernatorial	JJ gubernatorial
+starts	VBZ start
+become	VB become	VBN become
+coordinator	NN coordinator
+wind	VB wind
+1961	CD 1961
+session	NN session
+monday	NNP monday
+head	VB head	NN head
+where	WRB where
+bond	NN bond
+approved	VBD approve	VBN approve
+shortly	RB shortly
+adjournment	NN adjournment
+afternoon	NN afternoon
+senate	NNP senate	NN senate
+approve	VB approve
+study	NN study	VB study
+allotted	VBN allot
+rural	JJ rural	NNP rural
+urban	JJ urban
+areas	NNS area
+determine	VB determine
+what	WDT what	WP what
+adjustments	NNS adjustment
+made	VBN make	VBD make
+vandiver	NNP vandiver
+traditional	JJ traditional
+visit	NN visit
+chambers	NNS chamber
+toward	IN toward
+likely	RB likely	JJ likely
+mention	VB mention	NN mention
+100	CD 100
+million	CD million
+issue	NN issue	VB issue	VBP issue
+earlier	RBR early	JJR early
+priority	NN priority
+item	NN item
+construction	NN construction
+bonds	NNS bond
+meanwhile	RB meanwhile
+learned	VBN learn
+very	RB very	JJ very
+near	JJ near
+being	VBG be
+ready	JJ ready
+30	CD 30
+worth	NN worth	NNP worth	JJ worth
+reconstruction	NN reconstruction	NNP reconstruction
+go	VB go
+courts	NNS court
+friendly	JJ friendly
+test	NN test	VB test
+validity	NN validity
+then	RB then
+sales	NNS sale
+begin	VB begin
+contracts	NNS contract
+let	VBN let	VB let
+repair	NN repair
+most	RBS most	JJS most
+heavily	RB heavily
+traveled	VBN travel
+highways	NNS highway
+source	NN source
+3	CD 3
+4	CD 4
+roads	NNPS road	NNS road
+authority	NNP authority	NN authority
+road	NN road
+revolving	VBG revolve
+fund	NN fund
+apparently	RB apparently
+intends	VBZ intend
+issued	VBN issue	VBD issue
+every	DT every
+old	JJ old	NNP old
+ones	NNS one
+paid	VBN pay	VBD pay
+off	RP off	IN off
+authorities	NNS authority
+opened	VBD open	VBN open
+1958	CD 1958
+battle	NN battle	NNP battle
+against	IN against
+issuance	NN issuance
+50	CD 50
+marvin	NNP marvin
+told	VBD tell	VBN tell
+constitution	NNP constitution	NN constitution
+consulted	VBN consult
+yet	RB yet	CC yet
+about	IN about	RB about
+plans	NNS plan	VBZ plan
+schley	NNP schley
+rep.	NNP rep.
+d.	NNP d.
+offer	VB offer
+resolution	NN resolution
+house	NNP house	NN house
+rescind	VB rescind
+body's	NNS body
+action	NN action
+itself	PRP itself
+10	CD 10
+day	NN day	NNP day
+increase	NN increase	VB increase
+expense	NN expense
+allowances	NNS allowance
+sunday	NNP sunday
+research	NN research	NNP research
+done	VBN do
+quickie	NN quickie
+can	MD can
+repealed	VBN repeal
+outright	RB outright
+notice	NN notice
+given	VBN give
+reconsideration	NN reconsideration
+sought	VBN seek
+while	IN while
+emphasizing	VBG emphasize
+technical	JJ technical
+details	NNS detail
+fully	RB fully
+worked	VBN work
+seek	VB seek	VBP seek
+set	VB set	VBN set
+aside	RP aside
+privilege	NN privilege
+87-31	CD 87-31
+similar	JJ similar
+passed	VBD pass	VBN pass
+29	CD 29
+5	CD 5
+word	NN word
+offered	VBN offer	VBD offer
+pointed	VBD point
+last	JJ last	NNP last	VB last
+november	NNP november
+rejected	VBD reject	VBN reject
+constitutional	JJ constitutional
+amendment	NN amendment
+allow	VB allow
+pay	NN pay	VBP pay	VB pay
+raises	NNS raise
+sessions	NNS session
+veteran	JJ veteran
+jackson	NNP jackson
+legislator	NN legislator
+aid	NN aid	VB aid
+education	NN education	NNP education
+something	NN something
+consistently	RB consistently
+opposed	VBN oppose	VBD oppose
+past	NN past	JJ past	IN past
+mac	NNP mac
+barber	NNP barber
+commerce	NNP commerce
+asking	VBG ask
+endorse	VB endorse
+increased	VBN increase
+support	NN support	VB support
+provided	VBN provide
+expended	VBN expend
+13th	JJ 13th
+members	NNS member
+congressional	JJ congressional
+delegation	NN delegation
+washington	NNP washington
+like	VB like	IN like
+see	VB see	VBP see
+congressmen	NNS congressman
+specifically	RB specifically
+him	PRP he
+tossed	VBD toss
+hopper	JJ hopper
+formally	RB formally
+read	VBN read	VBD read
+event	NN event
+congress	NNP congress
+does	VBZ do
+board	NNP board	NN board
+directed	VBN direct
+give	VB give
+teacher	NN teacher
+colquitt	NNP colquitt
+long	JJ long	RB long
+hot	JJ hot
+controversy	NN controversy
+miller	NNP miller
+school	NN school	NNP school
+superintendent	NN superintendent
+policeman	NN policeman	NNP policeman
+put	VBD put	VB put
+coolest	JJS cool
+i	PRP i	NNP i
+ever	RB ever
+saw	VBD see
+harry	NNP harry
+davis	NNP davis
+agriculture	NN agriculture
+defeated	VBD defeat	VBN defeat
+felix	NNP felix
+bush	NNP bush
+principal	NN principal	JJ principal
+democratic	NNP democratic	JJ democratic
+1,119	CD 1119
+votes	NNS vote	VBZ vote
+saturday's	None _
+saturday	NNP saturday
+got	VBD get	VBN get
+402	CD 402
+carey	NNP carey
+armed	JJ armed
+pistol	NN pistol
+stood	VBD stand	VBN stand
+polls	NNS poll
+insure	VB insure
+order	NN order	VB order
+calmest	JJS calm
+tom	NNP tom
+just	RB just
+church	NN church
+didn't	None _
+n't	RB not
+smell	VB smell
+drop	NN drop
+liquor	NN liquor
+bit	NN bit
+trouble	NN trouble
+leading	VBG lead
+quiet	JJ quiet
+marked	VBN mark
+anonymous	JJ anonymous
+midnight	NN midnight
+phone	NN phone
+calls	NNS call	VBZ call
+veiled	VBN veil
+threats	NNS threat
+violence	NN violence
+former	JJ former
+george	NNP george
+p.	NNP p.
+callan	NNP callan
+shot	VBD shoot
+himself	PRP himself
+death	NN death
+march	NNP march	NN march
+18	CD 18
+days	NNS day
+post	NN post	VB post
+dispute	NN dispute
+during	IN during
+reportedly	RB reportedly
+telephone	NN telephone
+too	RB too
+subjected	VBN subject
+soon	RB soon
+scheduled	VBD schedule	VBN schedule
+local	JJ local	NN local
+feared	VBD fear
+carry	VB carry
+gun	NN gun
+promised	VBD promise
+sheriff	NN sheriff
+tabb	NNP tabb
+good	JJ good	NN good
+promise	NN promise
+everything	NN everything
+went	VBD go
+real	RB real	JJ real
+smooth	JJ smooth
+wasn't	None _
+austin	NNP austin
+approval	NN approval
+price	NNP price
+daniel's	None _
+daniel	NNP daniel
+abandoned	VBN abandon
+seemed	VBD seem
+certain	JJ certain
+thursday	NNP thursday
+adamant	JJ adamant
+protests	NNS protest
+bankers	NNS banker	NNPS banker
+personally	RB personally
+led	VBD lead	VBN lead
+fight	NN fight
+measure	NN measure
+watered	VBN water
+down	RP down	RB down	JJ down	IN down
+considerably	RB considerably
+rejection	NN rejection
+legislatures	NNS legislature
+hearing	NN hearing	VBG hear
+revenue	NNP revenue	NN revenue
+taxation	NNP taxation
+rules	NNS rule	NNPS rule
+automatically	RB automatically
+subcommittee	NN subcommittee
+week	NN week
+questions	NNS question
+taunted	VBD taunt
+appearing	VBG appear
+witnesses	NNS witness
+left	VBD leave	VBN leave	JJ left
+little	JJ little
+doubt	NN doubt
+recommend	VB recommend
+passage	NN passage
+termed	VBD term	VBN term
+extremely	RB extremely
+conservative	JJ conservative
+estimate	NN estimate
+produce	VB produce
+17	CD 17
+dollars	NNS dollar
+help	VB help	NN help
+erase	VB erase
+anticipated	VBN anticipate
+deficit	NN deficit
+63	CD 63
+current	JJ current
+fiscal	JJ fiscal
+31	LS 31	CD 31
+merely	RB merely
+means	NNS means	NN means	VBZ mean
+enforcing	VBG enforce
+escheat	NN escheat
+books	NNS book
+republic	NN republic
+permits	VBZ permit	NNS permit
+bank	NN bank	NNP bank
+accounts	NNS account
+stocks	NNS stock
+personal	JJ personal
+persons	NNS person
+missing	JJ missing
+seven	CD seven
+bill	NN bill	NNP bill
+drafted	VBD draft
+banks	NNS bank
+insurance	NN insurance
+firms	NNS firm
+pipeline	NN pipeline
+companies	NNS company
+corporations	NNS corporation
+report	VB report	NN report
+treasurer	NN treasurer
+cannot	None _
+enforced	VBN enforce
+now	RB now
+because	IN because
+almost	RB almost
+impossible	JJ impossible
+locate	VB locate
+declared	VBD declare	VBN declare
+dewey	NNP dewey
+lawrence	NNP lawrence
+tyler	NNP tyler
+lawyer	NN lawyer
+representing	VBG represent
+sounded	VBD sound
+opposition	NN opposition
+keynote	NN keynote
+violate	VB violate
+their	PRP$ their
+contractual	JJ contractual
+obligations	NNS obligation
+depositors	NNS depositor
+undermine	VB undermine
+confidence	NN confidence
+customers	NNS customer
+if	IN if
+you	PRP you
+destroy	VBP destroy
+economy	NN economy
+circulation	NN circulation
+millions	NNS million
+charles	NNP charles
+hughes	NNP hughes
+sherman	NNP sherman
+sponsor	NN sponsor
+enact	VB enact
+amount	VB amount	NN amount
+gift	NN gift
+pockets	NNS pocket
+contention	NN contention
+denied	VBN deny	VBD deny
+several	JJ several
+including	VBG include
+scott	NNP scott
+hudson	NNP hudson
+gaynor	NNP gaynor
+jones	NNP jones
+houston	NNP houston
+brady	NNP brady
+harlingen	NNP harlingen
+howard	NNP howard
+cox	NNP cox
+argued	VBD argue
+probably	RB probably
+unconstitutional	JJ unconstitutional
+impair	VB impair
+complained	VBD complain
+enough	JJ enough	RB enough
+introduced	VBN introduce	VBD introduce
+senators	NNPS senator	NNS senator
+unanimously	RB unanimously
+parkhouse	NNP parkhouse
+dallas	NNP dallas
+authorizing	VBG authorize
+schools	NNS school
+deaf	NN deaf	JJ deaf	NNP deaf
+designed	VBN design
+special	JJ special
+schooling	NN schooling
+students	NNS student
+scholastic	JJ scholastic
+reduced	VBN reduce
+debate	NN debate
+authorize	VB authorize
+agency	NNP agency	NN agency
+establish	VB establish
+wide	JJ wide
+300,000	CD 300000
+population	NN population
+require	VB require
+children	NNS child
+between	IN between
+6	CD 6
+attend	VB attend
+permitting	VBG permit
+older	JJR old
+residential	JJ residential
+here	RB here
+budget	NN budget
+harris	NNP harris
+bexar	NNP bexar
+tarrant	NNP tarrant
+el	NNP el
+paso	NNP paso
+451,500	CD 451500
+savings	NN savings	NNS saving
+157,460	CD 157460
+yearly	RB yearly
+year's	None _
+capital	NN capital
+outlay	NN outlay
+88,000	CD 88000
+absorbed	VBN absorb
+tea	NNP tea
+estimated	VBD estimate	VBN estimate
+182	CD 182
+scholastics	NNS scholastic
+saving	VBG save
+coming	VBG come
+live	VB live
+get	VB get	VBP get
+hear	VB hear
+horse	NN horse
+parimutuels	NNS parimutuel
+reps.	NNPS rep.
+v	NNP v
+red	JJ red	NNP red
+joe	NNP joe
+ratcliff	NNP ratcliff
+still	RB still
+expects	VBZ expect
+tell	VB tell
+folks	NNS folk
+why	WRB why
+thinks	VBZ think
+berry's	None _
+we're	None _
+'re	VBP be
+pro	NN pro
+letters	NNS letter
+con	NN con
+betting	NN betting	VBG bette
+believe	VBP believe
+people	NNS people
+better	RBR well	JJR good
+informed	VBN inform	VBD inform
+question	NN question	VB question
+oppose	VB oppose
+i'm	None _
+'m	VBP be
+willing	JJ willing
+stake	VB stake
+my	PRP$ my
+ex-gambler	NN ex-gambler
+san	NNP san
+antonio	NNP antonio
+advocacy	NN advocacy
+ponies	NNS pony
+heard	VBD hear	VBN hear
+option	NN option
+proposal	NN proposal
+favorable	JJ favorable
+although	IN although
+faces	VBZ face
+sledding	VBG sled
+later	RBR late	JJR late
+finally	RB finally
+sent	VBD send	VBN send
+extending	VBG extend
+planning	NN planning	NNP planning
+cities	NNS city
+quickly	RB quickly
+whipped	VBD whip
+meager	JJ meager
+fare	NN fare
+bills	NNS bill
+committees	NNS committee
+passing	VBG pass
+calendar	NN calendar
+validated	VBN validate
+acts	NNS act
+districts	NNS district
+another	DT another
+enlarged	VBN enlarge
+beaumont	NNP beaumont
+navigation	NNP navigation
+district	NNP district	NN district
+third	JJ third
+amended	VBD amend
+creation	NN creation
+lamar	NNP lamar
+previously	RB previously
+adopted	VBN adopt
+without	IN without
+dissent	NN dissent
+sen.	NNP sen.
+r.	NNP r.
+schwartz	NNP schwartz
+galveston	NNP galveston
+mentally	RB mentally
+retarded	JJ retarded
+gulf	NNP gulf
+coast	NNP coast
+meantime	NN meantime
+accept	VB accept
+gifts	NNS gift
+donations	NNS donation
+site	NN site
+revision	NN revision
+louis	NNP louis
+crump	NNP crump
+saba	NNP saba
+17,000	CD 17000
+retailers	NNS retailer
+group	NN group	NNP group
+miscellaneous	JJ miscellaneous
+excise	NN excise
+taxes	NNS tax
+eliminating	VBG eliminate
+requirement	NN requirement
+return	NN return
+notarized	VBN notarize
+instead	RB instead
+certificate	NN certificate
+correctness	NN correctness
+violation	NN violation
+penalty	NN penalty
+plus	CC plus
+1,000	CD 1000
+fine	NN fine	JJ fine
+series	NN series
+league	NNP league	NN league
+aikin	NNP aikin
+paris	NNP paris
+relieve	VB relieve
+estate	NN estate
+brokers	NNS broker
+own	JJ own	VB own
+annual	JJ annual
+licensing	NN licensing
+fee	NN fee
+12	CD 12
+license	NN license	VB license
+natural	JJ natural
+gas	NN gas
+utility	NN utility
+right	NN right	JJ right
+eminent	JJ eminent
+domain	NN domain
+frank	NNP frank
+owen	NNP owen
+acquire	VB acquire
+sites	NNS site
+underground	JJ underground
+storage	NN storage
+reservoirs	NNS reservoir
+marshall	NNP marshall
+formby	NNP formby
+plainview	NNP plainview
+commission	NNP commission	NN commission
+suggested	VBD suggest
+fill	VB fill
+vacancies	NNS vacancy
+need	NN need	VBP need	VB need
+costly	JJ costly
+elections	NNS election
+formby's	NNP formby
+appointee	NN appointee
+selected	VBN select
+composed	VBN compose
+lieutenant	NN lieutenant
+chief	JJ chief	NNP chief	NN chief
+justice	NN justice
+supreme	NNP supreme
+representatives	NNS representative	NNPS representative
+decided	VBD decide	VBN decide
+taking	VBG take	NN taking
+poll	NN poll
+kind	NN kind
+texans	NNPS texans
+prefer	VB prefer	VBP prefer
+adverse	JJ adverse
+81	CD 81
+65	CD 65
+kept	VBD keep	VBN keep
+affairs	NNPS affair	NNS affair
+referendum	NN referendum
+april	NNP april
+u.s.	NNP u.s.
+senator	NN senator	NNP senator
+wesley	NNP wesley
+roberts	NNP roberts
+seminole	NNP seminole
+idea	NN idea
+delay	NN delay
+kill	VB kill
+west	NNP west	RB west
+texan	NNP texan
+reported	VBD report	VBN report
+gotten	VBN get
+hollowell	NNP hollowell
+feb.	NNP february
+22	CD 22
+final	JJ final
+legislative	JJ legislative
+thirds	NNS third
+majorities	NNS majority
+printed	VBN print
+opponents	NNS opponent
+couldn't	None _
+could	MD could
+information	NN information
+proposals	NNS proposal
+intelligent	JJ intelligent
+choice	NN choice
+except	IN except
+absent	JJ absent
+paradise	NN paradise	NNP paradise
+lost	VBN lose
+alleged	VBN allege
+water	NN water	NNP water
+needs	NNS need
+texas'	None _
+big	JJ big
+cotten	NNP cotten
+weatherford	NNP weatherford
+insisted	VBD insist
+development	NN development	NNP development
+effort	NN effort
+fort	NNP fort
+cover	VB cover
+places	NNS place
+wise	NNP wise
+hamlet	NN hamlet
+250	CD 250
+shouting	NN shouting
+ended	VBD end
+114	CD 114
+sending	VBG send
+sponsored	VBN sponsor	VBD sponsor
+5,000,000	CD 5000000
+15,000,000	CD 10000000
+maximum	JJ maximum	NN maximum
+loan	NN loan
+project	NN project	VB project
+construed	VBD construe
+large	JJ large
+felt	VBD feel	VBN feel
+spent	VBN spend	VBD spend
+providing	VBG provide
+statements	NNS statement
+paying	VBG pay
+benefit	VB benefit	NN benefit
+pending	VBG pend
+sway	VB sway
+cotten's	None _
+attack	NN attack	VB attack
+bill's	None _
+defenders	NNS defender
+mostly	RB mostly
+small	JJ small
+town	NN town	NNP town
+buchanan	NNP buchanan
+dumas	NNP dumas
+eligio	NNP eligio
+kika	NNP kika
+de	NNP de	FW de
+la	NNP la
+garza	NNP garza
+mission	NNP mission
+f	NNP f
+collins	NNP collins
+newton	NNP newton
+chapman	NNP chapman
+sulphur	NNP sulphur
+springs	NNPS springs
+poor	JJ poor
+boy's	NNS boy
+peanut	NN peanut
+serving	VBG serve
+reducing	VBG reduce
+learning	VBG learn
+educational	JJ educational
+methods	NNS method
+c.	NNP c.
+grover	NNP grover
+teaches	VBZ teach
+history	NN history
+24	CD 24
+semester	NN semester
+hours	NNS hour
+called	VBN call	VBD call
+teaching	NN teaching	VBG teach
+required	VBN require
+junior	JJ junior	NNP junior
+senior	JJ senior
+high	JJ high	NNP high	RB high
+normal	JJ normal
+college	NN college	NNP college
+teachers	NNS teacher
+least	JJS least
+credit	NN credit
+subject	NN subject
+remainder	NN remainder
+subjects	NNS subject
+person	NN person
+master's	None _
+master	NN master
+degree	NN degree
+physics	NN physics
+chemistry	NN chemistry
+math	NN math
+english	NNP english
+permitted	VBN permit
+teach	VB teach
+fifty	CD fifty
+150	CD 150
+immediately	RB immediately
+joined	VBD join
+co-signers	NNS co-signer
+sp.	NN sp.
+regents	NNS regent
+named	VBN name
+dr.	NNP dr.
+clarence	NNP clarence
+clark	NNP clark
+hays	NNP hay
+kan	NNP kan
+school's	None _
+president	NN president	NNP president
+succeed	VB succeed
+mclemore	NNP mclemore
+retire	VB retire
+close	NN close
+holds	VBZ hold
+earned	VBN earn
+university	NNP university
+oklahoma	NNP oklahoma
+science	NN science
+&	CC &
+bachelor	NN bachelor
+southwestern	NNP southwestern
+okla	NNP okla
+addition	NN addition
+rhode	NNP rhode
+island	NNP island
+massachusetts	NNP massachusetts
+institute	NNP institute	NN institute	VB institute
+technology	NNP technology
+captain	NN captain
+basketball	NN basketball
+team	NN team
+football	NN football
+letterman	NN letterman
+served	VBN serve	VBD serve
+athletic	JJ athletic
+raymondville	NNP raymondville
+instructor	NN instructor
+associate	NN associate
+professor	NN professor
+border	NN border
+patrolman	NN patrolman
+signal	NNP signal
+corps	NNP corps	NN corps
+army	NNP army	NN army
+denton	NNP denton
+principals	NNS principal
+independent	NNP independent	JJ independent
+re-elected	VBN re-elect
+62	CD 62
+recommendation	NN recommendation
+supt	NNP supt
+chester	NNP chester
+o.	NNP o.
+strickland	NNP strickland
+racial	JJ racial
+discrimination	NN discrimination
+employment	NN employment
+yesterday	NN yesterday
+ribbon	NN ribbon
+dependent	JJ dependent
+culminating	VBG culminate
+adc	NNP adc	NN adc
+cook	NNP cook
+york	NNP york
+consulting	NN consulting	VBG consult
+firm	NN firm	JJ firm
+range	NN range
+soaring	VBG soar
+case	NN case	NNP case
+load	NN load
+serious	JJ serious
+causes	NNS cause
+family	NN family
+breakdown	NN breakdown
+desertion	NN desertion
+dependency	NN dependency
+solve	VB solve
+monthly	JJ monthly
+100,000	CD 100000
+recipients	NNS recipient
+4.4	CD 4.4
+virgil	NNP virgil
+martin	NNP martin
+carson	NNP carson
+pirie	NNP pirie
+co.	NNP co.
+problems	NNS problem
+forced	VBN force
+depend	VB depend
+subsistence	NN subsistence
+volume	NN volume
+cases	NNS case
+decrease	VB decrease
+community	NN community
+able	JJ able
+deal	VB deal
+effectively	RB effectively
+relatively	RB relatively
+limited	JJ limited	VBN limit
+skills	NNS skill
+color	NN color
+underlying	VBG underlie	JJ underlie
+breakups	NNS breakup
+extension	NN extension
+living	VBG live
+relatives	NNS relative
+parents	NNS parent
+preserving	VBG preserve
+unity	NN unity
+projects	NNS project
+prevention	NN prevention
+illegitimacy	NN illegitimacy
+defendants	NNS defendant
+summerdale	NNP summerdale
+burglary	NN burglary
+trial	NN trial
+indicating	VBG indicate
+guilt	NN guilt
+arrest	NN arrest
+parsons	NNP parsons
+criminal	JJ criminal
+disclosure	NN disclosure
+bellows	NNP bellows
+defense	NN defense	NNP defense
+counsel	NN counsel
+startled	VBD startle
+observers	NNS observer
+viewed	VBN view	VBD view
+prelude	NN prelude
+quarrel	NN quarrel
+six	CD six
+eight	CD eight
+policemen	NNS policeman
+grant	VB grant	NN grant	NNP grant
+client	NN client
+alan	NNP alan
+clements	NNP clements
+separate	JJ separate
+request	NN request	VB request
+woman	NN woman
+courtroom	NN courtroom
+fears	NNS fear
+prejudicial	JJ prejudicial
+aspects	NNS aspect
+highly	RB highly
+strongly	RB strongly
+indicated	VBD indicate	VBN indicate
+knew	VBD know
+receiving	VBG receive
+stolen	VBN steal
+involving	VBG involve
+themselves	PRP themselves
+others	NNS other
+leaned	VBD lean
+bench	NN bench
+inquired	VBD inquire
+mean	VBP mean	VB mean
+admitting	VBG admit
+?	. ?
+yes	UH yes
+your	PRP$ your
+honor	NN honor
+replied	VBD reply
+amounts	VBZ amount
+true	JJ true
+free	JJ free
+conflict	NN conflict
+july	NNP july
+kennedy	NNP kennedy
+today	NN today
+pushed	VBD push
+white	NNP white
+business	NN business
+devote	VB devote
+attention	NN attention
+working	VBG work
+berlin	NNP berlin
+crisis	NN crisis
+address	NN address
+deliver	VB deliver
+tomorrow	NN tomorrow
+american	JJ american	NNP american
+nationwide	JJ nationwide
+television	NN television
+radio	NN radio
+much	JJ much	RB much
+summer	NN summer
+cape	NNP cape
+cod	NNP cod
+writing	VBG write
+drafts	NNS draft
+portions	NNS portion
+aids	NNS aid
+whom	WP whom	 
+talked	VBD talk
+returned	VBD return
+midmorning	NN midmorning
+hyannis	NNP hyannis
+port	NNP port
+mass	NNP mass	VB mass	JJ mass
+spokesman	NN spokesman
+text	NN text
+quite	PDT quite
+way	NN way
+completion	NN completion
+decisions	NNS decision
+pierre	NNP pierre
+salinger	NNP salinger
+press	NN press
+secretary	NN secretary	NNP secretary
+say	VB say
+it's	None _
+thru	IN through
+advisers	NNS adviser
+staff	NN staff
+doing	VBG do
+involved	VBD involve	JJ involved	VBN involve
+composition	NN composition
+wording	NN wording
+rather	RB rather
+minute	NN minute
+meet	VB meet
+latest	JJS late
+precipitated	VBN precipitate
+russia's	None _
+russia	NNP russia
+demands	NNS demand
+nov.	NNP november
+dismissed	VBN dismiss
+acting	VBG act
+karns	NNP karns
+prosecution	NN prosecution
+obtained	VBD obtain	VBN obtain
+unfair	JJ unfair
+fundamentally	RB fundamentally
+illegal	JJ illegal
+matter	NN matter
+even	RB even
+significance	NN significance
+innocence	NN innocence
+legal	JJ legal
+rights	NNS right
+karns'	None _
+ruling	NN ruling
+pertained	VBD pertain
+ruled	VBD rule	VBN rule
+unable	JJ unable
+contempt	NN contempt
+proceedings	NNS proceeding
+originally	RB originally
+677	CD 677
+133	CD 133
+morris	NNP morris
+wexler	NNP wexler
+prosecutor	NN prosecutor
+subpoenas	NNS subpoena
+admitted	VBD admit
+hearings	NNS hearing
+subpenas	NNS subpena
+200	CD 200
+questioned	VBD question	VBN question
+individuals	NNS individual
+building	NN building	VBG build
+mayer	NNP mayer
+goldberg	NNP goldberg
+judges	NNS judge
+58th	JJ 58th
+precinct	NN precinct
+23d	JJ 23d
+ward	NN ward
+procedure	NN procedure
+constituted	VBD constitute	VBN constitute
+intimidation	NN intimidation
+repeatedly	RB repeatedly
+coercion	NN coercion
+used	VBN use
+questioning	NN question
+wrongful	JJ wrongful
+privately	RB privately
+outside	IN outside
+room	NN room
+misuse	NN misuse
+processes	NNS process
+actually	RB actually
+abuse	NN abuse
+process	NN process
+altho	DT altho
+vindication	NN vindication
+function	NN function
+east	NNP east
+st.	NNP st.
+sitting	VBG sit
+faced	VBN face
+35	CD 35
+complementary	JJ complementary
+miscount	NN miscount
+33d	JJ 33d
+24th	JJ 24th
+42d	JJ 42d
+31st	JJ 31st
+21st	JJ 21st
+28th	JJ 28th
+29th	JJ 29th
+18th	JJ 18th
+4th	JJ 4th
+9th	JJ 9th
+advisement	NN advisement
+claims	NNS claim
+precedent	NN precedent
+reading	VBG read
+statement	NN statement
+discharging	VBG discharge
+subpenaed	VBN subpenae
+dismiss	VB dismiss
+9	CD 9
+mammoth	NN mammoth
+care	NN care	VB care
+whereby	WRB whereby
+social	JJ social
+security	NN security
+70	CD 70
+workers	NNS worker
+raised	VBN raise	VBD raise
+14.2	CD 14.2
+americans	NNPS american
+covered	VBN cover
+railroad	NN railroad
+retirement	NN retirement
+programs	NNS program
+message	NN message
+tied	VBD tie
+aged	JJ aged
+requests	NNS request
+grants	NNS grant
+finance	VB finance	NN finance	NNP finance
+dental	JJ dental
+scholarships	NNS scholarship
+build	VB build	NN build
+20	CD 20
+expand	VB expand
+capitol	NNP capitol	NN capitol
+hill	NNP hill
+37	CD 37
+financed	VBN finance
+boosting	VBG boost
+payroll	NN payroll
+worker	NN worker
+employer	NN employer
+4,800	CD 4800
+alone	RB alone
+boost	VB boost	NN boost
+base	NN base
+5,000	CD 5000
+6.5	CD 6.5
+3.25	CD 3.25
+boosts	NNS boost
+imposed	VBN impose
+those	DT that
+rise	VB rise
+7.5	CD 7.5
+starting	VBG start
+1963	CD 1963
+levy	NN levy
+already	RB already
+outlays	NNS outlay
+1.5	CD 1.5
+billion	CD billion
+benefits	NNS benefit
+figures	NNS figure
+higher	JJR high
+parts	NNS part
+entail	VB entail
+750	CD 750
+nursing	NN nursing
+carries	VBZ carry
+systems	NNS system
+full	JJ full
+payment	NN payment
+stays	NNS stay
+90	CD 90
+illness	NN illness
+patient	NN patient	JJ patient
+nine	CD nine
+180	CD 180
+following	VBG follow
+discharge	NN discharge
+300	CD 300
+formula	NN formula
+allowing	VBG allow
+use	VBP use	VB use	NN use
+part	NN part
+outpatient	NN outpatient
+clinic	NN clinic
+diagnostic	JJ diagnostic
+service	NN service
+excess	NN excess
+visiting	VBG visit
+nurse	NN nurse
+240	CD 240
+noted	VBD note
+states	NNS state	NNPS state	VBZ state
+needy	JJ needy
+modest	JJ modest
+wish	NN wish
+staggered	VBN stagger
+drain	NN drain
+caused	VBN cause
+extended	JJ extended
+stay	NN stay
+cut	VBN cut	VB cut
+absolutely	RB absolutely
+essential	JJ essential
+sufficient	JJ sufficient
+deductible	JJ deductible
+requirements	NNS requirement
+discourage	VB discourage
+malingering	JJ malingering
+unnecessary	JJ unnecessary
+overcrowding	NN overcrowding
+hospitals	NNS hospital
+socialized	VBN socialize
+medicine	NN medicine
+prepayment	NN prepayment
+absolute	JJ absolute
+freedom	NN freedom
+guaranteed	VBN guarantee
+choose	VB choose
+wouldn't	None _
+doctors	NNS doctor
+apart	RB apart
+president's	None _
+ambitious	JJ ambitious
+enlarge	VB enlarge
+nation's	None _
+nation	NN nation
+92	CD 92
+47	CD 47
+handle	VB handle
+student	NN student
+needed	VBN need	VBD need
+rising	VBG rise
+moreover	RB moreover
+qualified	JJ qualified
+young	JJ young	NNP young
+going	VBG go
+dentistry	NN dentistry
+can't	None _
+ca	MD can
+afford	VB afford
+contributions	NNS contribution
+scholarship	NN scholarship
+equal	JJ equal
+1,500	CD 1500
+fourth	NN fourth
+based	VBN base
+2,000	CD 2000
+government	NN government	NNP government
+5.1	CD 5.1
+21	CD 21
+1966	CD 1966
+matching	NN matching	 
+match	NN match
+totaling	VBG total
+700	CD 700
+constructing	VBG construct
+enlarging	VBG enlarge
+capacity	NN capacity
+existing	VBG exist
+area	NN area	NNP area
+doubling	VBG double
+initial	JJ initial
+appropriation	NN appropriation
+stimulatory	JJ stimulatory
+improve	VB improve
+unspecified	JJ unspecified	 
+sum	NN sum
+experimental	JJ experimental
+field	NN field	NNP field
+children's	None _
+bureau	NN bureau	NNP bureau
+national	JJ national	NNP national
+asks	VBZ ask
+vocational	JJ vocational
+rehabilitation	NN rehabilitation
+how	WRB how
+facilities	NNS facility
+propose	VB propose
+increasing	VBG increase
+540	CD 540
+direct	JJ direct
+combine	VBP combine
+indispensable	JJ indispensable
+elements	NNS element
+sound	JJ sound
+knowledge	NN knowledge
+reaction	NN reaction
+along	IN along	RB along
+lines	NNS line
+placing	VBG place
+criticized	VBD criticize
+backed	VBD back
+hailed	VBD hail
+republican	NNP republican	JJ republican
+leader	NNP leader	NN leader
+dirksen	NNP dirksen
+ill	JJ ill	RB ill	NNP ill
+halleck	NNP halleck
+ind	NN ind
+persuade	VB persuade
+change	VB change	NN change
+compulsory	JJ compulsory
+voluntary	JJ voluntary
+enacted	VBN enact
+rayburn	NNP rayburn
+tex.	NNP tex.
+mighty	RB mighty
+thing	NN thing
+prediction	NN prediction
+fate	NN fate
+hastily	RB hastily
+pressure	NN pressure
+tonight	NN tonight
+confirmed	VBD confirm
+c	NNP c
+weaver	NNP weaver
+housing	NN housing
+11	CD 11
+floor	NN floor
+record	NN record
+scattered	JJ scattered
+ayes	NNS aye
+noes	NNS noe
+customary	JJ customary
+ignored	VBN ignore
+speed	VB speed
+negro	JJ negro
+administrator	NN administrator
+presidential	JJ presidential
+appointments	NNS appointment
+cabinet	NN cabinet	NNP cabinet
+rank	NN rank
+immediate	JJ immediate
+rule	NN rule	NNP rule
+requiring	VBG require
+hour	NN hour
+enforce	VB enforce
+demand	NN demand
+wayne	NNP wayne
+morse	NNP morse
+ore.	NNP ore.
+connection	NN connection
+eisenhower's	None _
+eisenhower	NNP eisenhower
+selections	NNS selection
+1953	CD 1953
+kennedy's	NNP kennedy
+oslo	NNP oslo
+positive	JJ positive
+element	NN element
+emerge	VB emerge
+north	NNP north
+atlantic	NNP atlantic
+treaty	NNP treaty
+organization	NNP organization	NN organization
+foreign	NNP foreign	JJ foreign
+ministers	NNPS minister	NNS minister
+freer	JJR freer
+franker	JJR frank
+wider	JJR wide
+discussions	NNS discussion
+animated	VBN animate
+mutual	JJ mutual
+understanding	NN understanding	VBG understand
+meetings	NNS meeting
+nature	NN nature
+proceed	VB proceed
+route	NN route
+step	NN step	VB step
+dramatic	JJ dramatic
+changes	NNS change
+met	VBN meet
+climate	NN climate
+candor	NN candor
+genuine	JJ genuine
+attempt	NN attempt
+another's	None _
+atmosphere	NN atmosphere
+particularly	RB particularly
+noticeable	JJ noticeable
+concerned	JJ concerned
+colonialist	NN colonialist
+powers	NNS power
+never	RB never
+nightmare	NN nightmare
+clash	NN clash
+africa	NNP africa
+exacerbated	VBN exacerbate
+difficulties	NNS difficulty
+tragedies	NNS tragedy
+facing	VBG face
+allies	NNS ally
+intellectually	RB intellectually
+emotionally	RB emotionally
+disapprove	VBP disapprove
+circumstances	NNS circumstance
+troubles	NNS trouble
+conspicuous	JJ conspicuous
+absence	NN absence
+explosion	NN explosion
+avoided	VBN avoid
+portugal	NNP portugal
+few	JJ few
+weeks	NNS week
+ago	RB ago
+rumored	VBN rumor
+walk	VB walk	NN walk
+nato	NNP nato
+critics	NNS critic
+angola	NNP angola
+policy	NN policy
+prove	VB prove
+harsh	JJ harsh
+relaxation	NN relaxation
+tension	NN tension
+remarkably	RB remarkably
+courteous	JJ courteous
+explanation	NN explanation
+basic	JJ basic
+positions	NNS position
+unchanged	JJ unchanged
+bitter	JJ bitter
+surprises	NNS surprise
+un	NNP un
+assembly	NNP assembly	NN assembly
+members'	None _
+ad	AFX ad
+hoc	JJ hoc
+discussed	VBN discuss
+advance	NN advance	VB advance
+canada	NNP canada
+somewhat	RB somewhat
+allied	VBN ally
+cars	NNS car
+track	NN track	NNP track
+behind	IN behind
+locomotive	NN locomotive
+norway	NNP norway
+daily	JJ daily	RB daily
+manifestations	NNS manifestation
+atomic	JJ atomic
+arms	NNS arm
+heart	NN heart
+northernmost	JJ northernmost
+alliance	NN alliance
+closer	JJR close
+line	NN line
+negative	JJ negative
+side	NN side
+balance	NN balance
+sheet	NN sheet
+disappointment	NN disappointment
+united	NNP united
+leadership	NN leadership
+hoped	VBN hope
+diplomat	NN diplomat
+described	VBD describe
+tenor	NN tenor
+dean	NNP dean
+rusk's	None _
+rusk	NNP rusk
+speeches	NNS speech
+inconclusive	JJ inconclusive
+hastened	VBD hasten
+add	VB add
+always	RB always
+clear	JJ clear	VB clear
+mr.	NNP mr.
+analysis	NN analysis
+various	JJ various
+global	JJ global
+danger	NN danger
+points	NNS point
+setbacks	NNS setback
+firmly	RB firmly
+fixed	VBN fix
+exploratory	JJ exploratory
+mood	NN mood
+vagueness	NN vagueness
+tactical	JJ tactical
+appreciation	NN appreciation
+semipublic	JJ semipublic
+affair	NN affair
+fewer	JJR few
+soviet	JJ soviet	NNP soviet
+correspondents	NNS correspondent
+accredited	VBN accredit
+impression	NN impression
+popularity	NN popularity
+came	VBD come
+tentative	JJ tentative
+frame	NN frame
+mind	NN mind
+listen	VB listen
+learn	VB learn
+enunciate	VB enunciate
+scale	NN scale
+detailed	JJ detailed
+application	NN application
+individual	JJ individual
+spots	NNS spot
+speech	NN speech
+gave	VBD give
+tremendous	JJ tremendous
+events	NNS event
+inside	IN inside	JJ inside
+preoccupied	VBN preoccupy
+months	NNS month
+core	NN core
+reiterated	VBN reiterate
+states'	None _
+profound	JJ profound
+attachment	NN attachment
+cornerstone	NN cornerstone
+nuclear	JJ nuclear
+submarines	NNS submarine
+eventually	RB eventually
+nato's	NNPS nato
+disposal	NN disposal
+european	JJ european
+waters	NNS water
+solemnly	RB solemnly
+repeated	VBN repeat
+union	NNP union	NN union
+stand	VB stand	NN stand	VBP stand
+setback	NN setback
+affirmation	NN affirmation
+once	RB once
+again	RB again
+whole	NN whole	JJ whole
+surveyed	VBN survey
+secretary's	None _
+greatest	JJS great
+achievement	NN achievement
+perhaps	RB perhaps
+rekindling	NN rekindling
+realization	NN realization
+friction	NN friction
+wherever	WRB wherever
+around	IN around
+globe	NN globe
+essence	NN essence
+entirely	RB entirely
+different	JJ different
+societies	NNS society
+treated	VBN treat
+regard	NN regard
+geographical	JJ geographical
+distance	NN distance
+lack	NN lack	VB lack
+apparent	JJ apparent
+spring	NN spring
+impetus	NN impetus
+main	JJ main
+directions	NNS direction
+deeper	JJR deep
+timely	JJ timely
+consultation	NN consultation
+within	IN within
+economic	NNP economic	JJ economic
+cooperation	NNP cooperation	NN cooperation
+ratified	VBN ratify
+method	NN method
+coordinating	VBG coordinate
+underdeveloped	JJ underdeveloped
+countries	NNS country
+strengthening	VBG strengthen	NN strengthening
+conventional	JJ conventional
+forces	NNS force
+maintenance	NN maintenance
+deterrent	NN deterrent
+threshold	NN threshold
+alliance's	None _
+difficult	JJ difficult
+come	VB come	VBN come	VBP come
+ally	NN ally
+laid	VBN lay	VBD lay
+completely	RB completely
+fulfilled	VBN fulfil
+moves	VBZ move
+haltingly	RB haltingly
+geneva	NNP geneva
+conference	NN conference
+laos	NNP laos
+erupts	VBZ erupt
+optimism	NN optimism
+communists	NNPS communist
+docile	JJ docile
+table	NN table
+military	JJ military	NNP military	NN military
+ground	NN ground
+explain	VBP explain
+mainly	RB mainly
+interested	JJ interested
+setting	VBG set
+international	JJ international	NNP international
+inspection	NN inspection
+prevent	VB prevent
+communist	JJ communist	NNP communist
+attacks	NNS attack	VBZ attack
+neighboring	VBG neighbor
+thailand	NNP thailand
+south	NNP south
+viet	NNP viet
+nam	NNP nam
+count	VBP count
+neutral	JJ neutral
+attending	VBG attend
+hopes	VBZ hope
+lao	NNP lao
+dominated	VBN dominate
+acceptable	JJ acceptable
+possibility	NN possibility
+modified	VBN modify
+inclination	NN inclination
+facto	FW facto
+cease	NN cease
+insist	VB insist	VBP insist
+verification	NN verification
+control	NN control
+participating	VBG participate
+modifications	NNS modification
+compelled	VBN compel
+excuses	VBZ excuse
+chain	NN chain
+errors	NNS error
+spokesmen	NNS spokesmen	 
+reforms	NNS reform
+critical	JJ critical
+moving	VBG move
+confrontations	NNS confrontation
+showing	VBG show
+gain	NN gain	VB gain
+world	NN world	NNP world
+arises	VBZ arise
+dealing	VBG deal
+aggression	NN aggression
+vice	NNP vice	JJ vice
+richard	NNP richard
+nixon	NNP nixon
+detroit	NNP detroit
+firmer	JJR firm
+tougher	JJR tough	RBR tough
+feels	VBZ feel
+tendency	NN tendency
+conciliatory	JJ conciliatory
+restrained	VBN restrain
+gallup	NNP gallup
+understates	VBZ understate
+situation	NN situation
+hardly	RB hardly
+restrain	VB restrain
+raising	VBG raise	NN raising
+power	NN power
+amateurish	JJ amateurish
+monumental	JJ monumental
+blunders	NNS blunder
+cuba	NNP cuba
+correspondent	NN correspondent
+constantly	RB constantly
+score	NN score
+reply	NN reply
+country	NN country	NNP country
+politics	NNS politics
+wisdom	NN wisdom
+thruston	NNP thruston
+morton	NNP morton
+r	NNP r
+kentucky	NNP kentucky
+responsible	JJ responsible
+outcome	NN outcome
+coalition	NN coalition
+susceptible	JJ susceptible
+domination	NN domination
+assailed	VBN assail
+direction	NN direction
+harvard	NNP harvard
+boston	NNP boston
+brandeis	NNP brandeis
+educators	NNS educator
+detente	NNP detente	NN detente
+pleads	VBZ plead
+invasion	NN invasion
+exile	NN exile
+groups	NNS group
+recommends	VBZ recommend
+detach	VB detach
+castro	NNP castro
+regime	NN regime
+bloc	NN bloc
+diplomatic	JJ diplomatic
+resumption	NN resumption
+trade	NN trade
+;	, ;
+concentrate	VB concentrate
+constructive	JJ constructive
+efforts	NNS effort
+latin	NNP latin
+america	NNP america
+conditions	NNS condition
+totalitarian	JJ totalitarian
+nationalism	NN nationalism
+feeds	VBZ feed
+intervention	NN intervention
+specific	JJ specific
+provocation	NN provocation
+clearly	RB clearly
+shipped	VBD ship
+tolerated	VBN tolerate
+until	IN until
+cuban	JJ cuban
+fiasco	NN fiasco
+victories	NNS victory
+observer	NN observer
+blended	VBN blend
+respected	VBD respect
+opinions	NNS opinion
+voiced	VBN voice	VBD voice
+professors	NNS professor
+revamped	VBN revamp
+early	RB early	JJ early
+kremlin	NNP kremlin
+channels	NNS channel
+disclosed	VBD disclose	VBN disclose
+react	VB react
+formative	JJ formative
+period	NN period
+strenuous	JJ strenuous
+remove	VB remove
+pin	NN pin
+pricking	NN pricking
+ban	NN ban
+negotiations	NNS negotiation
+reviewed	VBN review
+changed	VBN change
+thus	RB thus
+far	RB far
+response	NN response
+emphasis	NN emphasis
+encourage	VB encourage
+reform	NN reform
+recipient	JJ recipient
+nations	NNS nation	NNPS nation
+looked	VBD look
+show	VB show	VBP show
+determination	NN determination
+sailing	VBG sail
+naval	JJ naval
+fleet	NN fleet
+southeast	NNP southeast
+asian	JJ asian
+useless	JJ useless
+gesture	NN gesture
+freeze	VB freeze
+aided	VBD aid
+pathet	NNP pathet
+faster	JJR fast
+rate	NN rate
+territory	NN territory
+exposed	VBD expose
+huge	JJ huge
+acclaimed	VBD acclaim
+performing	VBG perform
+great	JJ great
+asia	NNP asia
+seato	NNP seato
+steamed	VBN steam
+prepared	VBD prepare
+contingency	NN contingency
+coping	VBG cope
+losses	NNS loss
+want	VB want	VBP want
+risk	VB risk
+war	NN war	NNP war
+disagreed	VBD disagree
+complication	NN complication
+concluded	VBN conclude	VBD conclude
+suited	JJ suited
+unlike	IN unlike
+determined	JJ determined
+neighbors	NNS neighbor
+favor	NN favor	VBP favor
+neutralized	VBN neutralize
+pro-western	JJ pro-western
+helped	VBN help
+revolt	NN revolt
+souvanna	NNP souvanna
+phouma	NNP phouma
+neutralist	NN neutralist
+appear	VB appear
+spark	VB spark
+fighting	NN fighting
+spirit	NN spirit
+royal	NNP royal	JJ royal
+certainly	RB certainly
+energy	NN energy
+displayed	VBN display
+hilt	NN hilt
+ideas	NNS idea
+prince	NNP prince
+trusting	JJ trusting
+gradually	RB gradually
+relinquish	VB relinquish
+factor	NN factor
+fulbright	NNP fulbright
+d	NNP d
+arkansas	NNP arkansas
+25	CD 25
+erred	VBN err
+half	NN half	PDT half
+encouraging	VBG encourage
+removal	NN removal
+extraordinary	JJ extraordinary
+check	VB check
+rapid	JJ rapid
+growth	NN growth
+juvenile	JJ juvenile	NNP juvenile	NN juvenile
+delinquency	NN delinquency	NNP delinquency
+deeply	RB deeply
+vitality	NN vitality
+important	JJ important
+assertion	NN assertion
+establishing	VBG establish
+crime	NNP crime	NN crime
+supported	VBN support	VBD support
+assisted	VBN assist
+advisory	NNP advisory	JJ advisory
+recognized	VBN recognize
+enactment	NN enactment
+specified	VBN specify
+combating	VBG combat
+disturbing	VBG disturb
+trend	NN trend
+offenses	NNS offense
+multiply	VBP multiply
+labor	NNP labor	NN labor
+coordinate	VB coordinate
+assist	VB assist
+communities	NNS community
+cope	VB cope
+simultaneously	RB simultaneously
+david	NNP david
+hackett	NNP hackett
+youth	NNP youth
+sense	NN sense
+urgency	NN urgency
+stems	VBZ stem
+arrests	NNS arrest
+doubled	VBN double
+1948	CD 1948
+offenders	NNS offender
+1959	CD 1959
+larceny	NN larceny
+providence	NNP providence
+organize	VB organize
+civil	JJ civil
+setup	NN setup
+appointing	VBG appoint
+raymond	NNP raymond
+h.	NNP h.
+hawksley	NNP hawksley
+cd	NN cd	NNP cd
+anyone	NN anyone
+else	JJ else
+locally	RB locally
+outline	VB outline
+earliest	JJS early
+state's	None _
+noting	VBG note
+handed	VBN hand
+responsibility	NN responsibility
+salary	NN salary
+expressed	VBD express
+opinion	NN opinion
+hire	VB hire
+3,500	CD 3500
+basis	NN basis
+defray	VB defray
+believed	VBD believe	VBN believe
+residents	NNS resident
+job	NN job
+men	NNS man
+laughlin	NNP laughlin
+headquarters	NN headquarters
+pertinent	JJ pertinent
+centralized	VBN centralize
+advantage	NN advantage
+having	VBG have
+eligible	JJ eligible
+apply	VB apply
+financial	JJ financial
+equipment	NN equipment
+procurement	NN procurement
+radios	NNS radio
+sirens	None _
+siren	NN siren
+s	POS 's
+rescue	NN rescue	VB rescue
+trucks	NNS truck
+vehicle	NN vehicle
+central	NNP central	JJ central
+station	NNP station	NN station
+assign	VB assign
+riverside	NNP riverside
+section	NN section	NNP section
+rumford	NNP rumford
+speaking	VBG speak
+status	NN status
+bet	VB bet
+hundred	CD hundred
+know	VB know	VBP know
+enemy	NN enemy
+narragansett	NNP narragansett
+grounds	NNS grounds
+point	NN point
+drive	VB drive
+theater	NN theater
+seekonk	NNP seekonk
+knowing	VBG know
+assemble	VB assemble
+air	NN air	NNP air
+vital	JJ vital
+frequently	RB frequently
+regular	JJ regular
+intervals	NNS interval
+fails	VBZ fail
+consider	VB consider
+call	VB call	VBP call
+developed	VBN develop	VBD develop	JJ developed
+things	NNS thing
+classes	NNS class
+drifts	VBZ drift
+level	NN level
+examine	VB examine
+revisions	NNS revision
+notte	NNP notte
+name	VB name	NN name
+move	NN move	VB move
+form	NN form	VB form
+letter	NN letter
+miss	NNP miss
+mary	NNP mary
+deputy	NN deputy	NNP deputy
+clerk	NN clerk
+falls	NNPS falls	NNP falls
+copy	NN copy
+released	VBN release
+responding	VBG respond
+urges	VBZ urge
+complete	JJ complete
+eye	NN eye
+perform	VB perform
+review	NN review
+atty	NNP atty
+gen.	NNP gen.
+joseph	NNP joseph
+nugent	NNP nugent
+views	NNS view	VBZ view
+appoint	VB appoint
+nugent's	None _
+expect	VB expect
+religious	JJ religious
+affected	VBN affect
+wrote	VBD write
+continuous	JJ continuous
+confronts	VBZ confront
+enforcement	NN enforcement
+officers	NNS officer
+regulating	VBG regulate
+advised	VBN advise	VBD advise
+shirking	VBG shirk
+activity	NN activity
+across	IN across
+statutes	NNS statute
+bay	NNP bay
+dating	VBG date
+instances	NNS instance
+colonial	JJ colonial
+times	NNS time	NNP times
+severely	RB severely
+limit	VBP limit
+types	NNS type
+merchandise	NN merchandise
+sold	VBN sell
+sabbath	NNP sabbath
+concern	NN concern
+especially	RB especially
+foods	NNS food
+placed	VBN place
+list	NN list
+neighborhood	NN neighborhood
+grocery	NN grocery
+variety	NN variety
+stores	NNS store
+chance	NN chance
+compete	VB compete
+supermarkets	NNS supermarket
+council's	None _
+shops	NNS shop
+retained	VBN retain
+livelihood	NN livelihood
+thousands	NNS thousand
+declares	VBZ declare
+licenses	NNS license
+factory	NN factory
+outlets	NNS outlet
+operate	VBP operate
+contended	VBN contend
+shopping	NN shopping
+liberals	NNS liberal
+conservatives	NNS conservative
+parties	NNS party
+reama	NNP reama
+nationally	RB nationally
+known	VBN know
+expert	NN expert
+rotary	NNP rotary
+club	NNP club
+luncheon	NN luncheon
+sheraton	NNP sheraton
+biltmore	NNP biltmore
+hotel	NNP hotel	NN hotel
+type	NN type
+enterprise	NN enterprise
+regrouping	NN regrouping
+average	JJ average
+voter	NN voter
+pull	NN pull	VB pull
+lever	NN lever
+confessing	VBG confess
+member	NN member
+socialist	NNP socialist	JJ socialist	NN socialist
+1910	CD 1910
+machinist	NN machinist
+toolmaker	NN toolmaker
+fellow	JJ fellow
+grooming	VBG groom
+me	PRP i
+steered	VBD steer
+utilities	NNS utility
+pooling	NN pooling
+resources	NNS resource
+gaining	VBG gain
+victory	NN victory
+original	JJ original
+retired	VBD retire	VBN retire
+screw	NNP screw
+1955	CD 1955
+us	PRP we	NNP us
+gross	JJ gross
+product	NN product
+neither	RB neither
+favors	VBZ favor
+wage	NN wage	VB wage
+increases	NNS increase
+manufacturers	NNS manufacturer
+caught	VBN catch
+profit	NN profit	VB profit
+squeeze	NN squeeze
+conditioned	VBN condition
+turned	VBN turn	VBD turn
+philosophy	NN philosophy
+dividing	VBG divide
+really	RB really
+engaged	VBN engage
+industrial	JJ industrial
+counseling	NN counseling
+bearing	VBG bear
+1,700	CD 1700
+johnston	NNP johnston
+presented	VBN present
+obtaining	VBG obtain
+charter	NN charter
+martinelli	NNP martinelli
+transferred	VBD transfer
+hand	NN hand
+suggestion	NN suggestion
+fortin	NNP fortin
+sr.	NNP sr.
+governs	VBZ govern
+referred	VBN refer
+canvassers	NNS canvasser
+happens	VBZ happen
+explained	VBD explain
+assure	VB assure
+scheduling	NN scheduling
+60	CD 60
+completes	VBZ complete
+difference	NN difference
+arose	VBD arise
+bourcier	NNP bourcier
+solicitor	NN solicitor
+exact	JJ exact
+handled	VBN handle
+justices	NNS justice
+favoring	VBG favor
+assured	VBD assure
+correct	JJ correct
+strategy	NN strategy
+movement	NN movement
+undoubtedly	RB undoubtedly
+comes	VBZ come
+inspiring	VBG inspire
+think	VBP think	VB think
+hope	VBP hope
+spearhead	VB spearhead
+surprised	VBN surprise
+running	VBG run	 
+non-partisan	JJ non-partisan
+posts	NNS post
+goal	NN goal
+awareness	NN awareness
+timetable	NN timetable
+followed	VBN follow
+started	VBD start
+town's	None _
+insurgent	JJ insurgent
+model	NN model
+municipal	JJ municipal
+misunderstanding	NN misunderstanding
+meaning	NN meaning
+cited	VBN cite	VBD cite
+false	JJ false
+pretenses	NNS pretense
+signers	NNS signer
+affixed	VBD affix
+consent	NN consent
+provision	NN provision
+included	VBN include	VBD include
+sanitary	NNP sanitary
+sewer	NN sewer
+ordinance	NN ordinance
+motorists	NNS motorist
+plead	VBP plead
+guilty	JJ guilty
+minor	JJ minor
+traffic	NN traffic
+fines	NNS fine
+monday's	NNPS monday
+sanantonio	NNP sanantonio
+michael	NNP michael
+abatuno	NNP abatuno
+draft	VB draft
+authorized	VBN authorize
+adopt	VB adopt
+nothing	NN nothing
+sixth	NNP sixth
+disposition	NN disposition
+hesitated	VBN hesitate
+prosecute	VB prosecute
+heavy	JJ heavy
+simplest	JJS simple
+offense	NN offense
+plainfield	NNP plainfield
+mitchell	NNP mitchell
+walter	NNP walter
+r-	IN r-
+bergen	NNP bergen
+value	NN value
+using	VBG use
+remark	NN remark
+campaigning	VBG campaign
+carcass	NN carcass
+republicanism	NNP republicanism
+dumont	NNP dumont
+warren	NNP warren
+spoke	VBD speak
+park	NNP park
+controversial	JJ controversial
+westfield	NNP westfield
+cocktail	NN cocktail
+scotch	NNP scotch
+plains	NNPS plain
+greeted	VBN greet
+chorus	NN chorus
+boos	NNS boo
+500	CD 500
+women	NNS woman	 
+trenton	NNP trenton
+forum	NN forum
+federation	NNP federation
+women's	None _
+clubs	NNPS club
+intention	NN intention
+stopped	VBD stop
+beating	VBG beat
+lifeblood	NN lifeblood
+congealed	VBD congeal
+he's	None _
+gone	VBN go
+sell	VB sell
+tattered	VBN tatter
+remains	NNS remains
+love	VB love
+considered	VBD consider	VBN consider
+mediocre	JJ mediocre
+fall	NN fall
+common	JJ common	NNP common
+decency	NN decency
+proud	JJ proud
+adminstration	NN adminstration
+closeness	NN closeness
+fall's	None _
+dead	JJ dead
+regrets	NNS regret
+regretted	VBD regret
+wrong	JJ wrong
+inject	VB inject
+waged	VBN wage
+issues	NNS issue
+re-arguing	VBG re-argue
+respond	VB respond
+either	CC either	DT either
+applause	NN applause
+hughes'	None _
+merit	NN merit
+open	JJ open	VB open
+launched	VBD launch
+continuance	NN continuance
+passenger	NN passenger
+proper	JJ proper
+uses	NNS use
+surplus	JJ surplus
+jersey	NNP jersey
+attractive	JJ attractive
+industry	NN industry
+decries	VBZ decry
+joblessness	NN joblessness
+decried	VBD decry
+unemployment	NN unemployment
+meyner	NNP meyner
+controlled	VBN control
+share	VB share
+blame	NN blame
+mack	NNP mack
+truck	NNP truck
+plant	NN plant
+am	VBP be
+income	NN income
+unhappy	JJ unhappy
+minutes	NNS minute
+saved	VBD save
+barbs	NNS barb
+centralization	NN centralization
+looks	VBZ look
+transportation	NN transportation	NNP transportation
+crises	NNS crisis
+saying	VBG say
+ways	NNS way
+motor	NN motor
+vehicles	NNS vehicle
+challenge	VBP challenge	NN challenge
+stands	VBZ stand
+defends	VBZ defend
+ike	IN ike
+resent	VB resent
+reference	NN reference
+discredited	JJ discredited
+insult	NN insult
+twice	RB twice
+overwhelmingly	RB overwhelmingly
+symbol	NN symbol
+peace	NN peace	NNP peace
+loving	JJ loving
+intentions	NNS intention
+understand	VB understand
+seeking	VBG seek
+position	NN position
+life	NN life
+demonstrate	VB demonstrate
+judgment	NN judgment
+bad	JJ bad
+taste	NN taste
+vicious	JJ vicious
+origin	NN origin
+desire	NN desire
+try	VB try	VBP try
+condemning	VBG condemn
+stature	NN stature
+rebound	VB rebound
+discredit	NN discredit
+sees	VBZ see
+ahead	RB ahead
+sandman	NNP sandman
+nomination	NN nomination
+addressing	VBG address
+newark	NNP newark
+essex	NNP essex
+leaders	NNS leader
+managers	NNS manager
+gathering	NN gathering
+indicate	VBP indicate
+chosen	VBN choose
+party's	None _
+nominee	NN nominee
+majority	NN majority
+announcement	NN announcement
+clifford	NNP clifford
+spend	VB spend
+giveaway	NN giveaway
+desperate	JJ desperate
+prop	VB prop
+sagging	VBG sag
+proven	VBN prove
+answer	VB answer
+jersey's	None _
+witnessed	VBN witness
+image	NN image
+failed	VBD fail
+witnessing	VBG witness
+transfer	VB transfer
+glow	NN glow
+case's	None _
+candidacy	NN candidacy
+fail	VB fail
+harriet	NNP harriet
+copeland	NNP copeland
+greenfield	NNP greenfield
+330	CD 330
+woodland	NNP woodland
+ave.	NNP ave.
+committeewoman	NN committeewoman
+supervisor	NNP supervisor
+weldon	NNP weldon
+sheets	NNP sheets	
+paper	NN paper
+ballots	NNS ballot
+represents	VBZ represent
+necessary	JJ necessary
+democracy	NN democracy
+lip	NN lip
+financing	NN financing
+purchase	NN purchase	VB purchase
+machines	NNS machine
+repay	VB repay
+exclusive	JJ exclusive
+january	NNP january
+1964	CD 1964
+mandatory	JJ mandatory
+impinging	VBG impinge
+basically	RB basically
+distasteful	JJ distasteful
+results	NNS result
+transcended	VBD transcend
+sheeran	NNP sheeran
+orange	NNP orange
+edward	NNP edward
+roos	NNP roos
+safety	NN safety
+fbi	NNP fbi
+organization's	None _
+freeholder	NNP freeholder
+macdonald	NNP macdonald
+vacancy	NN vacancy
+neil	NNP neil
+duffy	NNP duffy
+appeals	NNPS appeal
+experience	NN experience
+shown	VBN show
+filled	VBN fill
+preferably	RB preferably
+jim	NNP jim
+fits	VBZ fit
+description	NN description
+seidel	NNP seidel
+warden	NN warden
+conservation	NNP conservation	NN conservation
+36	CD 36
+citation	NN citation
+salvatore	NNP salvatore
+bontempo	NNP bontempo
+credits	VBZ credit
+supervision	NN supervision
+reduction	NN reduction
+forest	NN forest	NNP forest
+fires	NNS fire
+1925	CD 1925
+division	NN division
+graduation	NN graduation
+1921	CD 1921
+michigan	NNP michigan
+forestry	NN forestry
+private	JJ private
+lumber	NN lumber
+1944	CD 1944
+techniques	NNS technique
+plowing	VBG plow
+established	VBD establish	VBN establish
+tractor	NN tractor
+plows	NNS plow
+units	NNS unit
+expanded	VBD expand
+modernized	VBD modernize
+briefing	NN briefing
+wardens	NNS warden
+training	NN training
+credited	VBN credit
+co-operative	JJ co-operative
+co-operation	NN co-operation
+cross	NNP cross	NN cross
+boonton	NNP boonton
+debut	NN debut
+bid	NN bid
+pledge	NN pledge
+corner	NN corner
+nearly	RB nearly
+puddingstone	NNP puddingstone
+inn	NNP inn
+you'll	None _
+'ll	MD will
+you're	None _
+glad	JJ glad
+democrats	NNPS democrat
+resolve	VB resolve
+expedient	JJ expedient
+tripping	VBG trip
+feet	NNS foot
+popular	JJ popular
+slogans	NNS slogan
+win	VB win
+we'll	None _
+liberal	JJ liberal	NNP liberal
+planned	VBN plan
+forward	RB forward
+looking	VBG look
+honest	JJ honest
+talk	VB talk
+mouth	NN mouth
+truth	NN truth
+elect	VB elect
+signs	NNS sign
+feeble	JJ feeble
+shall	MD shall
+partner	NN partner
+courageous	JJ courageous
+attraction	NN attraction
+stop	NN stop
+piracy	NN piracy
+southern	JJ southern	NNP southern
+keep	VB keep
+bloodstream	NN bloodstream
+clean	JJ clean
+hoodlums	NNS hoodlum
+infiltrating	VBG infiltrate
+1940s	NNS 1940s
+calling	VBG call
+lives	VBZ life	NNS life
+breathes	VBZ breathe
+representative	JJ representative	NNP representative
+springboard	NN springboard
+meyner's	None _
+green	NNP green	JJ green
+acres	NNPS acres
+tracts	NNS tract
+land	NN land
+onrush	NN onrush
+underwrite	VB underwrite
+45	CD 45
+15	CD 15
+alloted	VBN allote
+municipalities	NNS municipality
+conquer	VB conquer
+space	NN space
+conserve	VB conserve
+pointing	VBG point
+125,000	CD 125000
+1950	CD 1950
+rapidly	RB rapidly
+changing	VBG change
+unless	IN unless
+preserve	VB preserve
+comment	VB comment
+misconstrued	VBN misconstrue
+sympathetic	JJ sympathetic
+i'll	None _
+explicit	JJ explicit
+bring	VB bring
+dynamic	JJ dynamic
+afraid	JJ afraid
+tangle	VB tangle
+fifteen	CD fifteen
+retiring	VBG retire
+voluntarily	RB voluntarily
+honored	VBN honor
+colleagues	NNS colleague
+whose	WP$ whose
+terms	NNS term
+expire	VB expire
+carved	VBN carve
+wooden	JJ wooden
+elephants	NNS elephant
+ivory	NN ivory
+tusks	NNS tusk
+remember	VB remember
+retirements	NNS retirement
+leaving	VBG leave
+presentation	NN presentation
+geraldine	NNP geraldine
+thompson	NNP thompson
+stepping	VBG step
+she	PRP she
+1920s	NNS 1920s
+adoption	NN adoption
+suffrage	NN suffrage
+resentment	NN resentment
+welled	VBD well
+wagner	NNP wagner
+paul	NNP paul
+screvane	NNP screvane
+abraham	NNP abraham
+beame	NNP beame
+mates	NNS mate
+same	JJ same
+anti-organization	JJ anti-organization
+opportunity	NN opportunity
+internal	JJ internal
+regarded	VBD regard
+bigger	JJR big
+trying	VBG try
+induce	VB induce
+controller	NNP controller
+arthur	NNP arthur
+levitt	NNP levitt
+brooklyn	NNP brooklyn
+mayoral	NNP mayoral
+7	CD 7
+contend	VBP contend
+file	NN file
+view	NN view	VBP view
+proposing	VBG propose
+ticket	NN ticket
+emphasize	VB emphasize
+weakness	NN weakness
+performance	NN performance
+rival	JJ rival
+slate	NN slate
+a.	NNP a.
+buckley	NNP buckley
+bronx	NNP bronx
+t.	NNP t.
+sharkey	NNP sharkey
+visits	VBZ visit
+usual	JJ usual
+touch	NN touch
+carmine	NNP carmine
+g.	NNP g.
+sapio	NNP sapio
+manhattan	NNP manhattan
+publicly	RB publicly
+believing	VBG believe
+replaced	VBN replace
+visited	VBD visit
+leader's	None _
+discussion	NN discussion
+key	NN key
+acceptance	NN acceptance
+choices	NNS choice
+struggle	NN struggle
+talks	NNS talk
+assent	NN assent
+dropping	VBG drop
+gerosa	NNP gerosa
+seems	VBZ seem
+assumed	VBN assume
+pick	VB pick
+gerosa's	None _
+successor	NN successor
+declined	VBD decline
+interviews	NNS interview
+reporters	NNS reporter
+confirm	VB confirm
+deny	VB deny
+queens	NNP queens
+replace	VB replace
+abe	NNP abe
+stark	NNP stark
+incumbent	NN incumbent	JJ incumbent
+irish	NNP irish
+feis	NNPS fei
+hunter	NNP hunter
+campus	NNP campus
+published	VBN publish
+yesterday's	None _
+announce	VBP announce
+definite	JJ definite
+june	NNP june
+16	CD 16
+wave	NN wave
+corruption	NN corruption
+tangible	JJ tangible
+feeling	NN feeling
+revulsion	NN revulsion
+taxi	NN taxi
+driver	NN driver
+visitor	NN visitor
+remarks	VBZ remark
+politicians	NNS politician
+scientist	NN scientist
+writes	VBZ write
+alienated	VBN alienate
+influence	VBP influence
+corrupt	JJ corrupt
+selfish	JJ selfish
+beyond	IN beyond
+secret	JJ secret
+conspiracy	NN conspiracy
+object	NN object
+plunder	VB plunder
+widely	RB widely
+identified	VBN identify
+locale	NN locale
+edwin	NNP edwin
+o'connor's	None _
+o'connor	NNP o'connor
+novel	NN novel	JJ novel
+hurrah	NNP hurrah
+reasons	NNS reason
+spotlight	NN spotlight
+succession	NN succession
+publicized	VBN publicize
+scandals	NNS scandal
+aroused	VBN arouse
+graft	NN graft
+works	NNS work	NNPS works
+investigations	NNS investigation
+attracted	VBN attract
+ethical	JJ ethical
+reader	NN reader
+newspapers	NNS newspaper
+escape	VB escape
+petty	JJ petty
+chicanery	NN chicanery
+worse	RBR bad
+norm	NN norm
+episode	NN episode
+accused	VBN accuse
+8,555	CD 8555
+beach	NN beach
+waterfront	NN waterfront
+sharply	RB sharply
+contrasting	VBG contrast
+forecasts	NNS forecast
+administration's	None _
+jockeying	NN jockeying
+uncertain	JJ uncertain
+panel's	None _
+panel	NN panel
+depends	VBZ depend
+trimble	NNP trimble
+democrat	NNP democrat
+siding	VBG side
+rayburn's	None _
+hopeful	JJ hopeful
+encounter	VB encounter
+sometime	RB sometime
+6,100,000,000	CD 6,00000000
+provides	VBZ provide
+forty	CD forty
+mortgages	NNS mortgage
+low	JJ low
+payments	NNS payment
+moderate	JJ moderate
+families	NNS family
+slums	NNS slum
+colleges	NNS college
+dormitories	NNS dormitory
+appears	VBZ appear
+temporarily	RB temporarily
+stalled	VBN stall
+northern	JJ northern
+usually	RB usually
+balking	VBG balk
+delaney	NNP delaney
+thomas	NNP thomas
+o'neill	NNP o'neill
+quick	JJ quick
+progress	NN progress
+amending	VBG amend
+loans	NNS loan
+parochial	JJ parochial
+languages	NNS language
+mathematics	NN mathematics
+clears	VBZ clear
+assigned	VBN assign
+agencies	NNS agency
+carried	VBN carry
+40,000,000	CD 40000000
+submitted	VBN submit
+26,000,000	CD 20000000
+universities	NNS university
+twelve	CD twelve
+contract	NN contract
+negotiation	NN negotiation
+stage	NN stage	NNP stage
+gordon	NNP gordon
+boyce	NNP boyce
+interview	NN interview
+middle	NNP middle
+confusion	NN confusion
+goals	NNS goal
+happen	VB happen
+churchmen	NNS churchman
+example	NN example
+month	NN month
+ghana	NNP ghana
+missionary	NN missionary
+discovered	VBD discover
+protested	VBD protest
+owner	NN owner
+worry	VB worry
+u.	NNP u.
+s.	NNP s.
+pays	VBZ pay
+overseas	JJ overseas
+explains	VBZ explain
+don't	None _
+shrugged	VBD shrug
+remarked	VBD remark
+classical	JJ classical
+separation	NN separation
+sargent	NNP sargent
+shriver	NNP shriver
+forswears	VBZ forswear
+proselytizing	NN proselytizing
+proposes	VBZ propose
+moscow	NNP moscow
+gay	JJ gay
+sukarno	NNP sukarno
+indonesia	NNP indonesia
+premier	NNP premier
+khrushchev	NNP khrushchev
+pulled	VBD pull	VBN pull
+beaming	VBG beam
+look	VB look
+!	. !
+jesting	VBG jest
+expansive	JJ expansive
+successful	JJ successful
+banker	NN banker
+twenty	CD twenty
+expanding	VBG expand
+uncommitted	JJ uncommitted
+allocated	VBD allocate
+1,000,000,000	CD 1000,000000
+western	JJ western
+estimates	NNS estimate
+biggest	JJS big
+beginning	NN beginning
+1954	CD 1954
+1960	CD 1960
+6,000	CD 6000
+technicians	NNS technician
+n.	NNP n.
+y.	NNP y.
+experts	NNS expert
+country's	None _
+professional	JJ professional
+amid	IN amid
+intensified	VBN intensify
+role	NN role
+puts	VBZ put
+premium	NN premium
+strength	NN strength
+jobs	NNS job
+india	NNP india
+400,000,000	CD 400,000,00400000000
+inhabitants	NNS inhabitant
+filling	VBG fill
+secretariat	NNP secretariat
+completed	VBN complete
+eighteen	CD eighteen
+due	JJ due
+administrative	JJ administrative
+budgetary	JJ budgetary
+understood	VBN understand
+ninety	CD ninety
+officer	NN officer
+economist	NN economist
+start	VB start	VBP start
+10,000,000	CD 10000000
+150,000,000	CD 1,0000000
+above	IN above
+30,000,000	CD 30000000
+forming	VBG form
+unite	VB unite
+ridden	VBN ride
+kingdom	NN kingdom
+decision	NN decision
+zurich	NNP zurich
+boun	NNP boun
+oum	NNP oum
+neutralists	NNS neutralist
+souphanouvong	NNP souphanouvong
+pro-communist	JJ pro-communist
+latter	JJ latter
+brothers	NNS brother
+joint	JJ joint	NN joint
+welcomed	VBN welcome
+delegations	NNS delegation
+nineteenth	JJ nineteenth
+plenary	JJ plenary
+fourteen	CD fourteen
+agreement	NN agreement
+princes	NNS prince	NNPS prince
+ease	VB ease
+task	NN task
+diplomats	NNS diplomat
+conceded	VBD concede
+overly	RB overly
+optimistic	JJ optimistic
+tactics	NNS tactic
+averell	NNP averell
+harriman	NNP harriman
+malcolm	NNP malcolm
+britain	NNP britain
+maurice	NNP maurice
+couve	NNP couve
+murville	NNP murville
+france's	None _
+france	NNP france
+minister	NNP minister
+canada's	None _
+external	NNP external
+round	NN round
+consultations	NNS consultation
+pace	NN pace
+slowed	VBN slow
+princess	NNP princess
+moune	NNP moune
+phouma's	None _
+princes'	None _
+cordial	JJ cordial
+laotians	NNPS laotian
+agenda	NN agenda
+reached	VBN reach
+principles	NNS principle
+guide	VB guide
+factors	NNS factor
+search	NN search
+pfaff	NNP pfaff
+41	CD 41
+promotion	NN promotion
+manager	NN manager
+picayune	NNP picayune
+publishing	NNP publishing
+company	NNP company	NN company
+f.	NNP f.
+tims	NNP tims
+succeeds	VBZ succeed
+burke	NNP burke
+1946	CD 1946
+commercial	JJ commercial
+artist	NN artist
+advertising	NN advertising
+native	NN native
+orleans	NNP orleans
+elementary	NNP elementary	JJ elementary
+fortier	NNP fortier
+soule	NNP soule
+1942	CD 1942
+december	NNP december
+1945	CD 1945
+belleville	NNP belleville
+merchandising	NN merchandising
+wholesale	NN wholesale
+audrey	NNP audrey
+knecht	NNP knecht
+karol	NNP karol
+reside	VBP reside
+4911	CD 4911
+miles	NNPS mile	NNP miles
+bleacher	NN bleacher
+seats	NNS seat
+erected	VBN erect
+pennsylvania	NNP pennsylvania
+avenue	NNP avenue	NN avenue
+inaugural	JJ inaugural
+parade	NN parade	VB parade
+jan.	NNP january
+assuming	VBG assume
+weather	NN weather
+halfway	RB halfway
+decent	JJ decent
+hundreds	NNS hundred
+thoroughfare	NN thoroughfare
+dwight	NNP dwight
+leave	VBP leave
+oath	NN oath
+ceremonies	NNS ceremony
+ride	VB ride
+historic	JJ historic
+ceremonial	JJ ceremonial
+impressive	JJ impressive
+street	NN street
+columbia	NNP columbia
+standpoint	NN standpoint
+viewpoint	NN viewpoint
+approach	VB approach	NN approach
+buildings	NNS building
+government's	None _
+shrines	NNS shrine
+monuments	NNS monument
+course	NN course
+1600	CD 1600
+famous	JJ famous
+easy	JJ easy
+begins	VBZ begin
+block	NN block	VB block
+stories	NNS story
+chapters	NNS chapter
+recorded	VBN record
+169	CD 169
+thousand	CD thousand
+watch	VB watch
+5000	CD 5000
+suffragettes	NNS suffragette
+1920	CD 1920
+square	NN square	NNP square
+marching	VBG march	NN marching
+soldiers	NNS soldier
+returning	VBG return
+1865	CD 1865
+archives	NNPS archive
+valuable	JJ valuable
+records	NNS record
+located	VBN locate
+edgar	NNP edgar
+hoover	NNP hoover
+presides	VBZ preside
+car	NN car
+tracks	NNS track
+center	NN center
+powered	VBN power
+spectators	NNS spectator
+occupying	VBG occupy
+vantage	NN vantage
+bordering	VBG border
+lafayette	NNP lafayette
+opposite	IN opposite
+statues	NNS statue
+andrew	NNP andrew
+hero	NN hero
+viewing	NN viewing
+40	CD 40
+16,000	CD 16000
+branches	NNS branch
+academies	NNS academy
+include	VB include	VBP include
+representations	NNS representation
+respective	JJ respective
+johnson	NNP johnson
+admission	NN admission
+headed	VBN head
+marines	NNPS marine
+navy	NNP navy
+guard	NNP guard
+reserve	NN reserve
+puerto	NNP puerto
+rico	NNP rico
+virgin	NNP virgin	JJ virgin
+islands	NNPS island
+guam	NNP guam
+samoa	NNP samoa
+trust	NN trust
+territories	NNS territory
+canal	NNP canal
+zone	NNP zone
+governmental	JJ governmental
+developments	NNS development
+mississippi	NNP mississippi
+observing	VBG observe
+scene	NN scene
+script	NN script
+gazing	VBG gaze
+largely	RB largely
+unpredictability	NN unpredictability
+operates	VBZ operate
+helm	NN helm
+ross	NNP ross
+barnett	NNP barnett
+surrounded	VBN surround
+keeps	VBZ keep
+foes	NNS foe
+guessing	VBG guess
+friends	NNS friend
+consequently	RB consequently
+scramble	JJ scramble	NN scramble
+predict	VB predict	VBP predict
+settle	VB settle
+iron	VB iron
+rough	JJ rough
+edges	NNS edge
+builtin	JJ builtin
+headache	NN headache
+steady	JJ steady
+stream	NN stream
+seekers	NNS seeker
+commitments	NNS commitment
+quest	NN quest
+decide	VB decide
+throw	VB throw
+nobody	NN nobody
+lawmakers	NNS lawmaker
+enjoy	VB enjoy
+re-enactment	NN re-enactment
+strange	JJ strange
+honeymoon	NN honeymoon
+doesn't	None _
+decade	NN decade
+odds	NNS odd
+restless	JJ restless
+companionship	NN companionship
+22.50	CD 22.50
+diem	NN diem
+agitating	VBG agitate
+withstand	VB withstand
+sensitive	JJ sensitive
+cutting	VBG cut
+seat	NN seat
+eyes	NNS eye
+focused	VBN focus
+delta	NNP delta
+congressman	NNP congressman
+smith	NNP smith
+redistricting	JJ redistricting
+longstanding	JJ longstanding
+mississippi's	None _
+crossroads	NNS crossroad
+split	VBN split
+badly	RB badly
+equally	RB equally
+divided	VBN divide
+camps	NNS camp
+loyalists	NNS loyalist
+independents	NNS independent
+currently	RB currently
+wreck	NN wreck
+clouded	JJ clouded
+titular	JJ titular
+reestablish	VB reestablish
+loyalist	JJ loyalist
+ranks	NNS rank
+bypass	VB bypass
+functionary	NN functionary
+patronage	NN patronage
+normally	RB normally
+flow	VB flow
+solidarity	NN solidarity
+picture	NN picture
+sens	VBZ sen
+eastland	NNP eastland
+stennis	NNP stennis
+remained	VBD remain
+loyal	JJ loyal
+probable	JJ probable
+stripped	VBN strip
+flows	VBZ flow
+baton	NNP baton
+rouge	NNP rouge
+la.	NNP la.
+jimmie	NNP jimmie
+theme	NN theme
+harmony	NN harmony
+severe	JJ severe
+stresses	NNS stress
+segregation	NN segregation
+troublesome	JJ troublesome
+vexing	VBG vex
+finances	NNS finances
+transition	NN transition
+hike	VB hike
+revenues	NNS revenue
+dedicated	JJ dedicated
+tardiness	NN tardiness
+dedication	NN dedication
+suspect	VB suspect
+related	JJ related
+directly	RB directly
+shortage	NN shortage
+cash	NN cash
+weary	JJ weary
+indeed	RB indeed
+curious	JJ curious
+contributing	VBG contribute
+defeat	NN defeat
+28	CD 28
+effectiveness	NN effectiveness
+clearing	VBG clear
+inconsistencies	NNS inconsistency
+play	VB play
+determining	VBG determine
+muster	VB muster
+reconvenes	VBZ reconvene
+normalcy	NN normalcy
+hands	NNS hand
+integration	NN integration
+terminate	VB terminate
+toss	VB toss
+towel	NN towel
+anyway	RB anyway
+frustrated	JJ frustrated
+losing	VBG lose
+token	VBN token	JJ token
+sort	NN sort
+politicos	NNS politico
+acknowledge	VB acknowledge
+convey	VB convey
+notion	NN notion
+though	IN though
+ineffectual	JJ ineffectual
+continued	VBD continue
+extra	JJ extra
+unlikely	JJ unlikely
+conclusion	NN conclusion
+purposes	NNS purpose
+perfect	JJ perfect
+consonance	NN consonance
+acute	JJ acute
+interesting	JJ interesting
+dilemma	NN dilemma
+forbids	VBZ forbid
+introduction	NN introduction
+expenses	NNS expense
+inflate	VB inflate
+constant	JJ constant
+stab	NN stab
+raiser	NN raiser
+prospect	NN prospect
+spending	NN spending
+unpleasant	JJ unpleasant
+avoid	VB avoid
+alternatives	NNS alternative
+blocked	VBN block
+trim	VB trim
+arouse	VB arouse
+squeezed	VBN squeeze
+trims	NNS trim
+exert	VB exert
+receptive	JJ receptive
+confronting	VBG confront
+tried	VBN try
+economize	VB economize
+revive	VB revive
+allegations	NNS allegation
+followers	NNS follower
+affiliations	NNS affiliation
+imprudently	RB imprudently
+cleaning	NN cleaning
+depending	VBG depend
+combat	VB combat
+alexander	NNP alexander
+hemphill	NNP hemphill
+bids	NNS bid
+frankford	NNP frankford
+elevated	NNP elevated
+rigged	VBN rig
+contracting	NN contracting
+city's	None _
+loss	NN loss
+344,000	CD 344000
+ranged	VBN range	VBD rang
+200,000	CD 200000
+shortcuts	NNS shortcut
+unnoticed	JJ unnoticed
+steel	NNP steel
+erection	NNP erection
+contracted	VBD contract
+impossibly	RB impossibly
+legitimate	JJ legitimate
+competing	VBG compete
+contractors	NNS contractor
+controller's	None _
+rigging	NN rigging
+disclosures	NNS disclosure
+sued	VBN sue
+172,400	CD 172400
+covering	VBG cover
+philadelphia	NNP philadelphia
+investigating	VBG investigate
+played	VBD play
+reviewing	VBG review
+signature	NN signature
+harold	NNP harold
+varani	NNP varani
+architecture	NN architecture
+engineering	NN engineering
+appeared	VBD appear
+vouchers	NNS voucher
+certifying	VBG certify
+fired	VBN fire
+charges	NNS charge
+accepting	VBG accept
+contractor	NN contractor
+managing	VBG manage
+donald	NNP donald
+cooperate	VB cooperate
+sharp	JJ sharp
+disagreement	NN disagreement
+sue	VB sue
+recovery	NN recovery
+berger	NNP berger
+morning	NN morning
+ptc	NN ptc	NNP ptc
+bankrupt	JJ bankrupt
+consolidated	NNP consolidated
+industries	NNPS industry
+inc.	NNP inc.
+3646	CD 3646
+2d	JJ 2d
+reorganization	NN reorganization
+bankruptcy	NN bankruptcy
+directors	NNS director
+draw	VB draw
+crumlish	NNP crumlish
+intervenes	VBZ intervene
+pleas	NNPS plea
+bonding	NN bonding
+travelers	NNPS traveler
+indemnity	NNP indemnity
+continental	NNP continental
+casualty	NNP casualty
+berger's	None _
+intervened	VBD interven
+preliminary	JJ preliminary
+filing	VBG file
+claim	NN claim	VB claim
+violated	VBN violate
+violations	NNS violation
+involve	VBP involve	VB involve
+expansion	NN expansion
+joints	NNS joint
+overhauling	NN overhauling
+102	CD 102
+75	CD 75
+repaired	VBN repair
+repairs	NNS repair
+belanger	NNP belanger
+sons	NNPS son	NNS son
+cambridge	NNP cambridge
+600	CD 600
+2400	CD 2400
+3100	CD 3100
+37,500	CD 37500
+won't	None _
+wo	MD will
+headline	NN headline
+hooked	VBN hook
+172,000	CD 172000
+douglas	NNP douglas
+pratt	NNP pratt
+transit	NN transit
+samuel	NNP samuel
+goodis	NNP goodis
+objected	VBD object
+occupancy	NN occupancy
+rates	NNS rate
+hotels	NNS hotel
+48	CD 48
+percent	NN percent
+objection	NN objection
+1000	CD 1000
+rooms	NNS room
+testifies	VBZ testify
+testimony	NN testimony
+raise	VB raise
+740,000	CD 740000
+2,330,000	CD 2330000
+rooming	VBG room	NN rooming
+houses	NNS house
+multi-family	JJ multi-family
+dwellings	NNS dwelling
+renewal	NN renewal
+single	JJ single
+account	VBP account
+95	CD 95
+accomodations	NNS accomodation
+apartment	NN apartment
+457,000	CD 457000
+leonard	NNP leonard
+kaplan	NNP kaplan
+builders	NNPS builder	NNS builder
+behalf	NN behalf
+dog	NN dog
+drew	VBD draw
+councilwoman	NN councilwoman
+virginia	NNP virginia
+knauer	NNP knauer
+formerly	RB formerly
+pedigreed	VBN pedigree
+dogs	NNS dog
+males	NNS male
+females	NNS female
+flat	JJ flat
+replies	VBZ reply
+owners	NNS owner
+penalized	VBN penalize
+animal	NN animal
+leary	NNP leary
+spends	VBZ spend
+115,000	CD 115000
+annually	RB annually
+regulate	VB regulate
+collects	VBZ collect
+43,000	CD 43000
+67,000	CD 67000
+s.p.c.a.	NNP s.p.c.a.
+15,000	CD 15000
+catchers	NNS catcher
+bites	NNS bite
+backs	NNS back
+mcconnell	NNP mcconnell
+indorsed	VBD indorse
+adequately	RB adequately
+compensated	VBN compensate
+schedule	NN schedule
+inspections	NNS inspection
+barnet	NNP barnet
+lieberman	NNP lieberman
+eugene	NNP eugene
+gillis	NNP gillis
+norristown	NNP norristown
+julian	NNP julian
+barnard	NNP barnard
+montgomery	NNP montgomery
+horace	NNP horace
+davenport	NNP davenport
+widow	NN widow
+killed	VBN kill
+barnard's	None _
+hit	NN hit
+dannehower	NNP dannehower
+pleaded	VBD plead
+manslaughter	NN manslaughter
+fined	VBN fine
+k	NNP k
+hess	NNP hess
+probation	NN probation
+driving	VBG drive
+sentence	NN sentence
+pronounced	VBN pronounce
+victim	NN victim
+accident	NN accident
+lee	NNP lee
+stansbery	NNP stansbery
+39	CD 39
+reprimanded	VBN reprimand
+violating	VBG violate
+agreements	NNS agreement
+redevelopers	NNS redeveloper
+redevelopment	NNP redevelopment
+300,000,000	CD 300,000,00300000000
+eastwick	NNP eastwick
+hazards	NNS hazard
+pedestrians	NNS pedestrian
+corp.	NNP corp.
+1311	CD 1311
+acre	NN acre
+tract	NN tract
+12,192,865	CD 12,192,865
+bounded	VBN bound
+dicks	NNP dicks
+ave	NNP ave
+61st	NNP 61st
+parks	NNS park
+designated	VBN designate
+authority's	None _
+feature	VB feature
+row	NN row
+garden	NN garden
+apartments	NNS apartment
+churches	NNS church
+clusters	NNS cluster
+corporation	NN corporation
+formed	VBN form
+reynolds	NNPS reynold
+metal	NNP metal
+builder	NN builder
+second	JJ second
+520	CD 520
+developing	VBG develop
+constantinos	NNP constantinos
+doxiadis	NNP doxiadis
+greece	NNP greece
+planner	NN planner
+sectors	NNS sector
+barred	VBN bar
+vehicular	JJ vehicular
+landscaped	VBN landscape
+walkways	NNS walkway
+esplanade	NN esplanade
+entire	JJ entire
+mile	NN mile
+length	NN length
+eliminates	VBZ eliminate
+grovers	NNP grovers
+ran	VBD run
+pedestrian	JJ pedestrian
+bridges	NNS bridge
+kansas	NNP kansas
+mo.	NNP mo.
+upi	NNP upi
+fighters	NNPS fighter	NNS fighter
+severly	RB severly
+injured	VBN injure
+bomb	NN bomb
+tore	VBD tear
+battalion	NNP battalion	NN battalion
+stanton	NNP stanton
+gladden	NNP gladden
+42	CD 42
+figure	NN figure
+representation	NN representation
+teamsters	NNS teamster
+suffered	VBD suffer
+multiple	JJ multiple
+fractures	NNS fracture
+ankles	NNS ankle
+baptist	NNP baptist
+memorial	NNP memorial
+ignition	NN ignition
+sets	VBZ set
+blast	NN blast
+driveway	NN driveway
+i'd	None _
+'d	VBD have
+flash	NN flash
+lying	VBG lie
+gladden's	None _
+younger	JJR young
+boy	NN boy
+knocked	VBD knock
+bed	NN bed
+wall	NN wall
+hood	NNP hood	NN hood
+flies	VBZ fly
+flying	VBG fly
+roof	NN roof
+front	JJ front	NN front
+wheel	NN wheel
+landed	VBD land
+away	RB away
+laboratory	NN laboratory
+explosive	JJ explosive
+device	NN device
+containing	VBG contain
+tnt	NN tnt
+nitroglycerine	NN nitroglycerine
+car's	None _
+starter	NN starter
+target	NN target
+threatening	VBG threaten
+torn	VBN tear
+dissension	NN dissension
+outspoken	JJ outspoken
+critic	NN critic
+union's	None _
+began	VBD begin
+organizing	VBG organize
+firemen	NNS fireman
+reward	NN reward
+bombing	NN bombing
+association's	None _
+kas	NNP kas
+guards	NNS guard
+mining	NNP mining	NN mining
+shiflett	NNP shiflett
+active	JJ active
+ankara	NNP ankara
+turkey	NNP turkey
+oct.	NNP october
+ap	NNP ap
+turkish	JJ turkish
+bowed	VBD bow
+emergency	NN emergency
+cemal	NNP cemal
+gursel	NNP gursel
+contested	VBD contest
+indecisive	JJ indecisive
+bargaining	NN bargaining
+threat	NN threat
+coup	NN coup
+d'etat	NN d'etat
+junta	NN junta
+overthrow	NN overthrow
+adnan	NNP adnan
+menderes	NNP menderes	NNPS menderes
+cedvet	NNP cedvet
+sunay	NNP sunay
+deadline	NN deadline
+join	VB join
+threatened	VBD threaten
+protocol	NN protocol
+agreeing	VBG agree
+gen	NNP gen
+demanded	VBN demand
+pledges	NNS pledge
+pardoned	VBN pardon
+satisfied	JJ satisfied
+stated	VBD state
+solution	NN solution
+created	VBN create
+vincent	NNP vincent
+ierulli	NNP ierulli
+temporary	JJ temporary
+desmond	NNP desmond
+connall	NNP connall
+practicing	VBG practice
+portland	NNP portland
+graduate	NN graduate
+northwestern	NNP northwestern
+father	NN father
+helping	VBG help
+structure	NN structure
+aiding	VBG aid
+economically	RB economically
+multnomah	NNP multnomah
+350	CD 350
+paths	NNS path
+identical	JJ identical
+congenial	JJ congenial
+ours	PRP our
+adding	VBG add
+develop	VB develop
+society	NN society
+ritiuality	NN ritiuality
+loyalty	NN loyalty
+patience	NN patience
+insuring	VBG insure
+detriment	NN detriment
+germany	NNP germany
+rebel	VBP rebel
+century	NN century
+doors	NNS door
+gives	VBZ give
+peoples	NNS people
+compare	VB compare
+reason	NN reason
+fear	VB fear
+extraordinarily	RB extraordinarily
+absorb	VB absorb
+exported	VBN export
+goods	NNS goods
+products	NNS product
+total	JJ total
+towards	IN towards
+portland's	None _
+advice	NN advice
+coordination	NN coordination
+plea	NN plea
+ralph	NNP ralph
+molvar	NNP molvar
+1409	CD 1409
+sw	NNP sw
+maplecrest	NNP maplecrest
+thought	VBD think
+cooperating	VBG cooperate
+mears	NNP mears
+strictly	RB strictly
+melvin	NNP melvin
+barnes	NNP barnes
+waiting	VBG wait
+sure	JJ sure
+whatever	WDT whatever
+fruitful	JJ fruitful
+los	NNP los
+angeles	NNP angeles
+send	VB send
+disaster	NN disaster
+evacuate	VB evacuate
+everybody	NN everybody
+voice	NN voice
+reiterating	VBG reiterate
+her	PRP$ her
+please	UH please
+faith	NN faith
+somebody	NN somebody
+everyone	NN everyone
+rush	VB rush
+evacuation	NN evacuation
+lots	NNS lot
+realistic	JJ realistic
+jack	NNP jack
+lowe's	None _
+lowe	NNP lowe
+instructed	VBN instruct
+salem	NNP salem
+statewide	JJ statewide
+mothers	NNS mother
+greeting	NN greeting
+mark	NNP mark
+hatfield	NNP hatfield
+reception	NN reception
+noon	NN noon
+emerald	NNP emerald
+empire	NNP empire
+kiwanis	NNPS kiwani
+speak	VB speak
+willamette	NNP willamette
+swearing	NN swearing
+bryson	NNP bryson
+circuit	NNP circuit
+oregon	NNP oregon
+game	NN game
+beaverton	NNP beaverton
+no.	NN no.
+examined	VBD examine
+blueprints	NNS blueprint
+specifications	NNS specification
+workshop	NN workshop
+3.5	CD 3.5
+900	CD 900
+581,000	CD 581000
+masonic	NNP masonic
+temple	NNP temple
+-a	HYPH -a
+plate	NN plate
+dinner	NN dinner
+honoring	VBG honor
+organized	JJ organized
+p.m.	NN p.m.
+roosevelt	NNP roosevelt
+4:30	CD 4:30
+p.m	NN p.m.
+blaine	NNP blaine
+whipple	NNP whipple
+speakers	NNS speaker
+edith	NNP edith
+al	NNP al
+ullman	NNP ullman
+norman	NNP norman
+nilsen	NNP nilsen
+terry	NNP terry
+schrunk	NNP schrunk
+oak	NNP oak
+grove	NNP grove
+lodge	NNP lodge
+dec.	NNP december
+a.m.	NN a.m.
+salter	NNP salter
+seeks	VBZ seek
+re-election	NN re-election
+huffman	NNP huffman
+brod	NNP brod
+barbara	NNP barbara
+njust	NNP njust
+bubenik	NNP bubenik
+vacated	VBN vacate
+hugh	NNP hugh
+stout	NNP stout
+culbertson	NNP culbertson
+steeves	NNP steeves
+piersee	NNP piersee
+w.m.	NNP w.m.
+sexton	NNP sexton
+theodore	NNP theodore
+heitschmidt	NNP heitschmidt
+stronger	JJR strong
+beliefs	NNS belief
+grasp	NN grasp
+delegates	NNS delegate
+assemblies	NNPS assembly
+god	NNP god
+coliseum	NNP coliseum
+strengthen	VB strengthen
+denomination's	None _
+denomination	NN denomination
+modern	JJ modern
+trends	NNS trend
+bible	NNP bible
+belief	NN belief
+dependence	NN dependence
+rev.	NNP rev.
+zimmerman	NNP zimmerman
+bulwark	NN bulwark
+fundamentalism	NN fundamentalism
+compromise	NN compromise
+truths	NNS truth
+editing	NN editing
+clarification	NN clarification
+reads	VBZ read
+scriptures	NNS scripture
+testament	NNP testament
+verbally	RB verbally
+inspired	VBN inspire
+revelation	NN revelation
+infallible	JJ infallible
+authoritative	JJ authoritative
+conduct	NN conduct
+emphasizes	VBZ emphasize
+diety	NNP diety
+lord	NNP lord
+jesus	NNP jesus
+christ	NNP christ
+sinless	JJ sinless
+miracles	NNS miracle
+substitutionary	JJ substitutionary
+bodily	JJ bodily
+resurrection	NN resurrection
+exaltation	NN exaltation
+super	RB super
+reelected	VBN reelect
+consecutive	JJ consecutive
+springfield	NNP springfield
+nominating	VBG nominate
+forthcoming	JJ forthcoming
+breakthrough	NN breakthrough
+opening	VBG open
+brandt	NNP brandt
+missions	NNS mission
+stressed	VBD stress
+years'	None _
+surveys	NNPS survey
+contact	NN contact
+loses	VBZ lose
+talking	VBG talk
+upwards	RB upwards
+12,000	CD 12000
+babies	NNS baby
+born	VBN bear
+immigrant	NN immigrant
+/	HYPH /
+7,000	CD 7000
+10,000	CD 10000
+light	NN light
+illinois	NNP illinois
+800	CD 800
+england	NNP england
+vision	NN vision
+8,000	CD 8000
+accomplish	VB accomplish
+necessitate	VB necessitate
+meets	VBZ meet
+church's	None _
+ability	NN ability
+capsule	NN capsule
+includes	VBZ include
+engaging	VBG engage
+mature	JJ mature
+pioneer	VB pioneer	NN pioneer
+strategic	JJ strategic
+centers	NNS center
+surrounding	VBG surround
+pastors	NNS pastor
+volunteers	NNS volunteer
+laymen	NNS layman
+lending	VBG lend
+arranging	VBG arrange
+ministerial	JJ ministerial
+graduates	NNS graduate
+apprentices	NNS apprentice
+dist	NNP dist
+powell	NNP powell
+motions	NNS motion
+fraud	NN fraud
+denials	NNS denial
+dismissal	NN dismissal
+mistrial	NN mistrial
+acquittal	NN acquittal
+striking	NN striking
+verdict	NN verdict
+denying	VBG deny
+trials	NNS trial
+upheld	VBN uphold
+conspirators	NNS conspirator
+schwab	NNP schwab
+defendant	JJ defendant	NN defendant
+philip	NNP philip
+weinstein	NNP weinstein
+linking	VBG link
+proof	NN proof
+weinstein's	None _
+mails	NNS mail
+defraud	VB defraud
+burbank	NNP burbank
+conpired	VBN conpire
+deferred	VBN defer
+PDT	PDT PDT
+''	'' ''
+SYM	SYM SYM
+$	$ $
