@@ -1,5 +1,33 @@
 # Refining Syntactic Distinctions Using Decision Trees: A Paper on Postnominal 'That' in Complement vs. Relative Clauses
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![GitHub Repo](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/gackouhamady/Projet_NLP)
+[![License: Open](https://img.shields.io/badge/license-Open-lightgrey.svg)](#)
+[![TreeTagger](https://img.shields.io/badge/TreeTagger-compatible-green.svg)](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+[![NLP](https://img.shields.io/badge/NLP-Linguistics-orange.svg)](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+
+- [Refining Syntactic Distinctions Using Decision Trees: A Paper on Postnominal 'That' in Complement vs. Relative Clauses](#refining-syntactic-distinctions-using-decision-trees-a-paper-on-postnominal-that-in-complement-vs-relative-clauses)
+  
+  - [Author](#author)
+  - [Abstract](#abstract)
+  - [Introduction](#introduction)
+    - [Aim of the Study](#aim-of-the-study)
+    - [Context and Motivation](#context-and-motivation)
+    - [Research Questions](#research-questions)
+  - [Materials and Methods](#materials-and-methods)
+    - [TreeTagger Model Evaluation](#treetagger-model-evaluation)
+    - [Preprocessing and Annotation](#preprocessing-and-annotation)
+    - [Lexicon Creation and Re-Training](#lexicon-creation-and-re-training)
+  - [Results](#results)
+    - [Analysis of UD EWT Treebank](#analysis-of-ud-ewt-treebank)
+    - [Model Performance](#model-performance)
+  - [Discussion](#discussion)
+    - [Challenges and Improvements](#challenges-and-improvements)
+  - [Conclusion](#conclusion)
+  - [References](#references)
+  - [Repository](#repository)
+
 ## Author
 **Hamady GACKOU**  
 Student at Paris Cité University  
